@@ -1,0 +1,9 @@
+# Synology
+@eaDir/
+
+# Docker (ajuste selon le projet)
+.env
+docker-data/
+data/
+logs/
+*.log

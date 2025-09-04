@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  xteve:
+    image: alturismo/xteve:latest
+    container_name: xteve
+    restart: unless-stopped
+    ports:
+      - 34400:34400
+    volumes:
+      - /volume1/docker/xteve/config:/config
+      - /volume1/docker/xteve/playlist:/playlist
+      - /volume1/docker/xteve/xmltv:/xmltv
