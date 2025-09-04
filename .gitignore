@@ -7,3 +7,6 @@ docker-data/
 data/
 logs/
 *.log
+# --- Synology & Docker ---
+.DS_Store
+# -------------------------
