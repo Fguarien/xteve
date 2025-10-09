@@ -1,0 +1,378 @@
+{
+  "050ee373b9c412f46d54ebfbbb93feb5": {
+    "channelNumber": "1018",
+    "name": "RTS UN",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726446.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "050ee373b9c412f46d54ebfbbb93feb5"
+  },
+  "109e5ba87b7d0699ba7b5a1acff57a9a": {
+    "channelNumber": "1044",
+    "name": "DISNEY+ MARVELS",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/730886.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "109e5ba87b7d0699ba7b5a1acff57a9a"
+  },
+  "12a3c9b04c36f2cf1c3522608617ea45": {
+    "channelNumber": "1014",
+    "name": "TF1 SERIES FILMS",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705968.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "12a3c9b04c36f2cf1c3522608617ea45"
+  },
+  "1a275599d9122716a945937bfcc05eed": {
+    "channelNumber": "1034",
+    "name": "PARAMOUNT DECALE",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/767994.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "1a275599d9122716a945937bfcc05eed"
+  },
+  "218882c68b2bd30d7c84e5ffc876949c": {
+    "channelNumber": "1045",
+    "name": "DISNEY+ STAR WARS",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/779241.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "218882c68b2bd30d7c84e5ffc876949c"
+  },
+  "2351cd352d44c9160c439c0696d8a1b0": {
+    "channelNumber": "1027",
+    "name": "FR| CINE+ OCS",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560489.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "2351cd352d44c9160c439c0696d8a1b0"
+  },
+  "2c9ade77fabab15db538497ea89599f7": {
+    "channelNumber": "1038",
+    "name": "EUROCHANNEL",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1118471.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "2c9ade77fabab15db538497ea89599f7"
+  },
+  "35f69c199649d13e43fbffdfb50b64a2": {
+    "channelNumber": "1035",
+    "name": "DRIVE IN MOVIE CHANNEL",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104156.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "35f69c199649d13e43fbffdfb50b64a2"
+  },
+  "37cd7d1cc078b8cfa8a226d3843b2b7c": {
+    "channelNumber": "1019",
+    "name": "RTS DEUX",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726447.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "37cd7d1cc078b8cfa8a226d3843b2b7c"
+  },
+  "3f166afbf04c3d78fd5168104cda2249": {
+    "channelNumber": "1025",
+    "name": "CANAL+ GRAND ECRAN",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/979453.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "3f166afbf04c3d78fd5168104cda2249"
+  },
+  "4247a2367af376067f5406e3dc0b8377": {
+    "channelNumber": "1013",
+    "name": "NOVO19",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1242677.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "4247a2367af376067f5406e3dc0b8377"
+  },
+  "441b8b9315b8f6da7c6dd0ea65c5d24d": {
+    "channelNumber": "1022",
+    "name": "CANAL+ (DD+ 5.1)",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1011440.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "441b8b9315b8f6da7c6dd0ea65c5d24d"
+  },
+  "48174001fcfa9ca712db3e278d8ae692": {
+    "channelNumber": "1033",
+    "name": "PARAMOUNT CHANNEL",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768170.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "48174001fcfa9ca712db3e278d8ae692"
+  },
+  "5f814cbcfe427b87d2749e02c0cc9278": {
+    "channelNumber": "1021",
+    "name": "CANAL+",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/553598.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "5f814cbcfe427b87d2749e02c0cc9278"
+  },
+  "607fd0b93c45eabdacc0165a4bab3118": {
+    "channelNumber": "1042",
+    "name": "STUDIO MOVIE 3",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768386.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "607fd0b93c45eabdacc0165a4bab3118"
+  },
+  "6437d3daf46e7e98be41fab0a9107ad9": {
+    "channelNumber": "1016",
+    "name": "RMC STORY",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711114.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "6437d3daf46e7e98be41fab0a9107ad9"
+  },
+  "6598ff3fecfe130b66ca3b22e948a59b": {
+    "channelNumber": "1036",
+    "name": "ACTION",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711115.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "6598ff3fecfe130b66ca3b22e948a59b"
+  },
+  "68d945940fe264c58c256509d1ac7636": {
+    "channelNumber": "1015",
+    "name": "6TER",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705963.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "68d945940fe264c58c256509d1ac7636"
+  },
+  "7250338b81356b56955a7c96c12333a8": {
+    "channelNumber": "1031",
+    "name": "CINE+ FESTIVAL",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560493.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "7250338b81356b56955a7c96c12333a8"
+  },
+  "7bf7f26edeb8b98187d447b18edf7cbd": {
+    "channelNumber": "1039",
+    "name": "LA CHAINE DE NOEL",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/751153.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "7bf7f26edeb8b98187d447b18edf7cbd"
+  },
+  "832837af0fa5705b52ff9c559662e633": {
+    "channelNumber": "1041",
+    "name": "STUDIO MOVIE 2",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768388.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "832837af0fa5705b52ff9c559662e633"
+  },
+  "88234f6ae3298bbc18340e44975511c4": {
+    "channelNumber": "1001",
+    "name": "TF1",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/723108.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "88234f6ae3298bbc18340e44975511c4"
+  },
+  "8e0d80bfd859cef74bab1cc21239f216": {
+    "channelNumber": "1029",
+    "name": "CINE+ EMOTION",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560491.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "8e0d80bfd859cef74bab1cc21239f216"
+  },
+  "8e463366121038f136c20ddc53f789b1": {
+    "channelNumber": "1188",
+    "name": "BLOOMBERG EUROPE",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738164.ts",
+    "backup_channel_1": {
+      "PlaylistID": "MBCC7201JNTEAB9R441A",
+      "URL": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738164.ts"
+    },
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "8e463366121038f136c20ddc53f789b1"
+  },
+  "9b2aa90c4deb1af7438e9d04c265852a": {
+    "channelNumber": "1037",
+    "name": "TCM CINEMA",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768171.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "9b2aa90c4deb1af7438e9d04c265852a"
+  },
+  "9ef4750d7ed3afaea2adfb3cd27b8b8e": {
+    "channelNumber": "1028",
+    "name": "CINE+ FRISSON",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560490.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "9ef4750d7ed3afaea2adfb3cd27b8b8e"
+  },
+  "9f089aa9cef53c38c4b094907a93628c": {
+    "channelNumber": "1020",
+    "name": "•●★-----|FR| CINEMA |FR|-----★●•",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138420.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "9f089aa9cef53c38c4b094907a93628c"
+  },
+  "b47d306444d4500c4743116222e84959": {
+    "channelNumber": "1024",
+    "name": "CANAL+ BOX OFFICE",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1097899.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "b47d306444d4500c4743116222e84959"
+  },
+  "bac69c4e91eb8e162ef3a59ea59b93c4": {
+    "channelNumber": "1040",
+    "name": "STUDIO MOVIE 1",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768390.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "bac69c4e91eb8e162ef3a59ea59b93c4"
+  },
+  "bb60829e72babc83e273398feb8d2901": {
+    "channelNumber": "1030",
+    "name": "CINE+ FAMILY",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560492.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "bb60829e72babc83e273398feb8d2901"
+  },
+  "bbd5cd22b66d6f156d39cfec9365ca39": {
+    "channelNumber": "1026",
+    "name": "CANAL+ CINEMA(S)",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560477.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "bbd5cd22b66d6f156d39cfec9365ca39"
+  },
+  "bca1cc9a519791c307886d765998c8c8": {
+    "channelNumber": "1000",
+    "name": "♣♦♣-----|FR| FRANCE |FR|----♣♦♣",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/5769.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "bca1cc9a519791c307886d765998c8c8"
+  },
+  "c870438cb132ad0b7972834f2f72f730": {
+    "channelNumber": "1023",
+    "name": "CANAL+ HDR (DD+ 5.1)",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1165650.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "c870438cb132ad0b7972834f2f72f730"
+  },
+  "d3d1913751ad158f244c4f208094cbab": {
+    "channelNumber": "1043",
+    "name": "STUDIO MOVIE",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1094825.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "d3d1913751ad158f244c4f208094cbab"
+  },
+  "d3dd17619458d2ec4c1bafb81deb329d": {
+    "channelNumber": "1032",
+    "name": "CINE+ CLASSIC",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768167.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "d3dd17619458d2ec4c1bafb81deb329d"
+  },
+  "f5bf923331209c1a9efb159825fd0c6d": {
+    "channelNumber": "1009",
+    "name": "TMC",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705965.ts",
+    "backup_channel_1": {
+      "PlaylistID": "MBCC7201JNTEAB9R441A",
+      "URL": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705965.ts"
+    },
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "f5bf923331209c1a9efb159825fd0c6d"
+  },
+  "f670716d026d01a26a0018622a2f230b": {
+    "channelNumber": "1017",
+    "name": "CHERIE 25",
+    "playlistID": "MBCC7201JNTEAB9R441A",
+    "url": "http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/767996.ts",
+    "backup_channel_1": null,
+    "backup_channel_2": null,
+    "backup_channel_3": null,
+    "urlID": "f670716d026d01a26a0018622a2f230b"
+  }
+}

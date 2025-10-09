@@ -1,12 +1,37 @@
-version: "3.7"
+version: "3.9"
+
 services:
-  xteve:
-    image: alturismo/xteve:latest
-    container_name: xteve
-    restart: unless-stopped
-    ports:
-      - 34400:34400
+  xtream-mini:
+    build: .
+    container_name: xtream-mini
+    env_file: .env
+    environment:
+      - TZ
+      - PORT
+      - XTREAM_HOST
+      - XTREAM_USER
+      - XTREAM_PASS
+      - FILTER_KEYWORDS
+      - REFRESH_SECS
+      - HTTP_PROXY
     volumes:
-      - /volume1/docker/xteve/config:/config
-      - /volume1/docker/xteve/playlist:/playlist
-      - /volume1/docker/xteve/xmltv:/xmltv
+      - /volume1/docker/xteve/playlist:/data/playlist
+      - /volume1/docker/xteve/xmltv:/data/xmltv
+      - /volume1/docker/xteve/app:/app:ro
+    ports:
+      - "35000:35000"
+    restart: unless-stopped
+
+  threadfin:
+    image: fyb3roptik/threadfin:latest
+    container_name: threadfin
+    environment:
+      - TZ=Europe/Brussels
+      - THREADFIN_PORT=34400
+      - THREADFIN_WEB_UI_PORT=34400
+    volumes:
+      - /volume1/docker/xteve/threadfin_config:/home/threadfin/conf
+      - /volume1/docker/xteve/threadfin_data:/tmp/threadfin
+    ports:
+      - "34400:34400"
+    restart: unless-stopped

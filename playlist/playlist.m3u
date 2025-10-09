@@ -1,0 +1,961 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="frfrancefr.fr" tvg-name="♣♦♣-----|FR| FRANCE |FR|----♣♦♣" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="France",♣♦♣-----|FR| FRANCE |FR|----♣♦♣
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/5769.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://logott.firstcloud.me/logo/9291.png" group-title="France",TF1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12864.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://logott.firstcloud.me/logo/1167.png" group-title="France",TF1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/6421.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://logott.firstcloud.me/logo/2848.png" group-title="France",TF1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/553596.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://logott.firstcloud.me/logo/40043.png" group-title="France",TF1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/723108.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://logott.firstcloud.me/logo/9286.png" group-title="France",FRANCE 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12859.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://logott.firstcloud.me/logo/7140.png" group-title="France",FRANCE 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13113.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://logott.firstcloud.me/logo/9540.png" group-title="France",FRANCE 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554511.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2" tvg-logo="http://logott.firstcloud.me/logo/55403.png" group-title="France",FRANCE 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1118858.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://logott.firstcloud.me/logo/9287.png" group-title="France",FRANCE 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12860.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://logott.firstcloud.me/logo/1169.png" group-title="France",FRANCE 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13114.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3" tvg-logo="http://logott.firstcloud.me/logo/9541.png" group-title="France",FRANCE 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554512.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4" tvg-logo="http://logott.firstcloud.me/logo/9288.png" group-title="France",FRANCE 4
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12861.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4" tvg-logo="http://logott.firstcloud.me/logo/1216.png" group-title="France",FRANCE 4
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/18830.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4" tvg-logo="http://logott.firstcloud.me/logo/15257.png" group-title="France",FRANCE 4
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726442.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5" tvg-logo="http://logott.firstcloud.me/logo/9361.png" group-title="France",FRANCE 5
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12934.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5" tvg-logo="http://logott.firstcloud.me/logo/1170.png" group-title="France",FRANCE 5
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13115.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5" tvg-logo="http://logott.firstcloud.me/logo/9542.png" group-title="France",FRANCE 5
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726443.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://logott.firstcloud.me/logo/9292.png" group-title="France",M6
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12865.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://logott.firstcloud.me/logo/1171.png" group-title="France",M6
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/6425.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://logott.firstcloud.me/logo/2852.png" group-title="France",M6
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/553597.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://logott.firstcloud.me/logo/52215.png" group-title="France",M6
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1012501.ts
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE" tvg-logo="http://logott.firstcloud.me/logo/18485.png" group-title="France",ARTE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22058.ts
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE" tvg-logo="http://logott.firstcloud.me/logo/1172.png" group-title="France",ARTE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25436.ts
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE" tvg-logo="http://logott.firstcloud.me/logo/21863.png" group-title="France",ARTE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726450.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://logott.firstcloud.me/logo/1212.png" group-title="France",W9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4785.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://logott.firstcloud.me/logo/5156.png" group-title="France",W9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13117.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://logott.firstcloud.me/logo/9544.png" group-title="France",W9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705964.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://logott.firstcloud.me/logo/10462.png" group-title="France",TMC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14035.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://logott.firstcloud.me/logo/1213.png" group-title="France",TMC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8730.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://logott.firstcloud.me/logo/5157.png" group-title="France",TMC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705965.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="http://logott.firstcloud.me/logo/9903.png" group-title="France",TFX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13476.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="http://logott.firstcloud.me/logo/1214.png" group-title="France",TFX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8731.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="http://logott.firstcloud.me/logo/5158.png" group-title="France",TFX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705966.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="http://logott.firstcloud.me/logo/9294.png" group-title="Divers",CSTAR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12867.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="http://logott.firstcloud.me/logo/1217.png" group-title="Divers",CSTAR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8732.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR" tvg-logo="http://logott.firstcloud.me/logo/5159.png" group-title="Divers",CSTAR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705967.ts
+#EXTINF:-1 tvg-id="t18" tvg-name="T18" tvg-logo="http://logott.firstcloud.me/logo/10461.png" group-title="Divers",T18
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14034.ts
+#EXTINF:-1 tvg-id="t18" tvg-name="T18" tvg-logo="http://logott.firstcloud.me/logo/1211.png" group-title="Divers",T18
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8728.ts
+#EXTINF:-1 tvg-id="t18" tvg-name="T18" tvg-logo="http://logott.firstcloud.me/logo/5155.png" group-title="Divers",T18
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705969.ts
+#EXTINF:-1 tvg-id="novo19" tvg-name="NOVO19" tvg-logo="http://logott.firstcloud.me/logo/57399.png" group-title="Divers",NOVO19
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1242679.ts
+#EXTINF:-1 tvg-id="novo19" tvg-name="NOVO19" tvg-logo="http://logott.firstcloud.me/logo/57398.png" group-title="Divers",NOVO19
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1242678.ts
+#EXTINF:-1 tvg-id="novo19" tvg-name="NOVO19" tvg-logo="http://logott.firstcloud.me/logo/57397.png" group-title="Divers",NOVO19
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1242677.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://logott.firstcloud.me/logo/1219.png" group-title="France",TF1 SERIES FILMS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4792.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://logott.firstcloud.me/logo/5160.png" group-title="France",TF1 SERIES FILMS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14279.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="http://logott.firstcloud.me/logo/10706.png" group-title="France",TF1 SERIES FILMS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705968.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="http://logott.firstcloud.me/logo/10463.png" group-title="Divers",6TER
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14036.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="http://logott.firstcloud.me/logo/1220.png" group-title="Divers",6TER
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8734.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER" tvg-logo="http://logott.firstcloud.me/logo/5161.png" group-title="Divers",6TER
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/705963.ts
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://logott.firstcloud.me/logo/18502.png" group-title="Divers",RMC STORY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22075.ts
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://logott.firstcloud.me/logo/1221.png" group-title="Divers",RMC STORY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14266.ts
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY" tvg-logo="http://logott.firstcloud.me/logo/10693.png" group-title="Divers",RMC STORY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711114.ts
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://logott.firstcloud.me/logo/18501.png" group-title="Divers",CHERIE 25
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22074.ts
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://logott.firstcloud.me/logo/1222.png" group-title="Divers",CHERIE 25
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4795.ts
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25" tvg-logo="http://logott.firstcloud.me/logo/38676.png" group-title="Divers",CHERIE 25
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/767996.ts
+#EXTINF:-1 tvg-id="rtsun" tvg-name="RTS UN" tvg-logo="http://logott.firstcloud.me/logo/10518.png" group-title="Divers",RTS UN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14091.ts
+#EXTINF:-1 tvg-id="rtsun" tvg-name="RTS UN" tvg-logo="http://logott.firstcloud.me/logo/2263.png" group-title="Divers",RTS UN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12938.ts
+#EXTINF:-1 tvg-id="rtsun" tvg-name="RTS UN" tvg-logo="http://logott.firstcloud.me/logo/9365.png" group-title="Divers",RTS UN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726446.ts
+#EXTINF:-1 tvg-id="rtsdeux" tvg-name="RTS DEUX" tvg-logo="http://logott.firstcloud.me/logo/10519.png" group-title="Divers",RTS DEUX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14092.ts
+#EXTINF:-1 tvg-id="rtsdeux" tvg-name="RTS DEUX" tvg-logo="http://logott.firstcloud.me/logo/2264.png" group-title="Divers",RTS DEUX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12939.ts
+#EXTINF:-1 tvg-id="rtsdeux" tvg-name="RTS DEUX" tvg-logo="http://logott.firstcloud.me/logo/9366.png" group-title="Divers",RTS DEUX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726447.ts
+#EXTINF:-1 tvg-id="frcinemafr" tvg-name="•●★-----|FR| CINEMA |FR|-----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★-----|FR| CINEMA |FR|-----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/6128.ts
+#EXTINF:-1 tvg-id="frcinemafr" tvg-name="•●★-----|FR| CINEMA |FR|-----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★-----|FR| CINEMA |FR|-----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138420.ts
+#EXTINF:-1 tvg-id="canal.fr" tvg-name="CANAL+" tvg-logo="http://logott.firstcloud.me/logo/1173.png" group-title="France",CANAL+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4746.ts
+#EXTINF:-1 tvg-id="canal.fr" tvg-name="CANAL+" tvg-logo="http://logott.firstcloud.me/logo/2940.png" group-title="France",CANAL+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13060.ts
+#EXTINF:-1 tvg-id="canal.fr" tvg-name="CANAL+" tvg-logo="http://logott.firstcloud.me/logo/9487.png" group-title="France",CANAL+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/553598.ts
+#EXTINF:-1 tvg-id="canaldd51.fr" tvg-name="CANAL+ (DD+ 5.1)" tvg-logo="http://logott.firstcloud.me/logo/52207.png" group-title="France",CANAL+ (DD+ 5.1)
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1011440.ts
+#EXTINF:-1 tvg-id="canalhdrdd51.fr" tvg-name="CANAL+ HDR (DD+ 5.1)" tvg-logo="http://logott.firstcloud.me/logo/55950.png" group-title="France",CANAL+ HDR (DD+ 5.1)
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1165650.ts
+#EXTINF:-1 tvg-id="canalboxoffice.fr" tvg-name="CANAL+ BOX OFFICE" tvg-logo="http://logott.firstcloud.me/logo/54739.png" group-title="France",CANAL+ BOX OFFICE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1097901.ts
+#EXTINF:-1 tvg-id="canalboxoffice.fr" tvg-name="CANAL+ BOX OFFICE" tvg-logo="http://logott.firstcloud.me/logo/55402.png" group-title="France",CANAL+ BOX OFFICE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1118857.ts
+#EXTINF:-1 tvg-id="canalboxoffice.fr" tvg-name="CANAL+ BOX OFFICE" tvg-logo="http://logott.firstcloud.me/logo/54738.png" group-title="France",CANAL+ BOX OFFICE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1097900.ts
+#EXTINF:-1 tvg-id="canalboxoffice.fr" tvg-name="CANAL+ BOX OFFICE" tvg-logo="http://logott.firstcloud.me/logo/54737.png" group-title="France",CANAL+ BOX OFFICE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1097899.ts
+#EXTINF:-1 tvg-id="canalgrandecran.fr" tvg-name="CANAL+ GRAND ECRAN" tvg-logo="http://logott.firstcloud.me/logo/51395.png" group-title="France",CANAL+ GRAND ECRAN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/979455.ts
+#EXTINF:-1 tvg-id="canalgrandecran.fr" tvg-name="CANAL+ GRAND ECRAN" tvg-logo="http://logott.firstcloud.me/logo/51394.png" group-title="France",CANAL+ GRAND ECRAN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/979454.ts
+#EXTINF:-1 tvg-id="canalgrandecran.fr" tvg-name="CANAL+ GRAND ECRAN" tvg-logo="http://logott.firstcloud.me/logo/51393.png" group-title="France",CANAL+ GRAND ECRAN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/979453.ts
+#EXTINF:-1 tvg-id="canalcinemas.fr" tvg-name="CANAL+ CINEMA(S)" tvg-logo="http://logott.firstcloud.me/logo/9686.png" group-title="France",CANAL+ CINEMA(S)
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13259.ts
+#EXTINF:-1 tvg-id="canalcinemas.fr" tvg-name="CANAL+ CINEMA(S)" tvg-logo="http://logott.firstcloud.me/logo/1174.png" group-title="France",CANAL+ CINEMA(S)
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8715.ts
+#EXTINF:-1 tvg-id="canalcinemas.fr" tvg-name="CANAL+ CINEMA(S)" tvg-logo="http://logott.firstcloud.me/logo/5142.png" group-title="France",CANAL+ CINEMA(S)
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560477.ts
+#EXTINF:-1 tvg-id="frcineocs" tvg-name="FR| CINE+ OCS" tvg-logo="http://logott.firstcloud.me/logo/9524.png" group-title="Divers",FR| CINE+ OCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13097.ts
+#EXTINF:-1 tvg-id="frcineocs" tvg-name="FR| CINE+ OCS" tvg-logo="http://logott.firstcloud.me/logo/1179.png" group-title="Divers",FR| CINE+ OCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8719.ts
+#EXTINF:-1 tvg-id="frcineocs" tvg-name="FR| CINE+ OCS" tvg-logo="http://logott.firstcloud.me/logo/5146.png" group-title="Divers",FR| CINE+ OCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560489.ts
+#EXTINF:-1 tvg-id="cinefrisson" tvg-name="CINE+ FRISSON" tvg-logo="http://logott.firstcloud.me/logo/9525.png" group-title="Divers",CINE+ FRISSON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13098.ts
+#EXTINF:-1 tvg-id="cinefrisson" tvg-name="CINE+ FRISSON" tvg-logo="http://logott.firstcloud.me/logo/8220.png" group-title="Divers",CINE+ FRISSON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4753.ts
+#EXTINF:-1 tvg-id="cinefrisson" tvg-name="CINE+ FRISSON" tvg-logo="http://logott.firstcloud.me/logo/1180.png" group-title="Divers",CINE+ FRISSON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560490.ts
+#EXTINF:-1 tvg-id="cineemotion" tvg-name="CINE+ EMOTION" tvg-logo="http://logott.firstcloud.me/logo/10474.png" group-title="Divers",CINE+ EMOTION
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14047.ts
+#EXTINF:-1 tvg-id="cineemotion" tvg-name="CINE+ EMOTION" tvg-logo="http://logott.firstcloud.me/logo/1181.png" group-title="Divers",CINE+ EMOTION
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8720.ts
+#EXTINF:-1 tvg-id="cineemotion" tvg-name="CINE+ EMOTION" tvg-logo="http://logott.firstcloud.me/logo/5147.png" group-title="Divers",CINE+ EMOTION
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560491.ts
+#EXTINF:-1 tvg-id="cinefamily" tvg-name="CINE+ FAMILY" tvg-logo="http://logott.firstcloud.me/logo/18500.png" group-title="Divers",CINE+ FAMILY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22073.ts
+#EXTINF:-1 tvg-id="cinefamily" tvg-name="CINE+ FAMILY" tvg-logo="http://logott.firstcloud.me/logo/7139.png" group-title="Divers",CINE+ FAMILY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4755.ts
+#EXTINF:-1 tvg-id="cinefamily" tvg-name="CINE+ FAMILY" tvg-logo="http://logott.firstcloud.me/logo/1182.png" group-title="Divers",CINE+ FAMILY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560492.ts
+#EXTINF:-1 tvg-id="cinefestival" tvg-name="CINE+ FESTIVAL" tvg-logo="http://logott.firstcloud.me/logo/9526.png" group-title="Divers",CINE+ FESTIVAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13099.ts
+#EXTINF:-1 tvg-id="cinefestival" tvg-name="CINE+ FESTIVAL" tvg-logo="http://logott.firstcloud.me/logo/8254.png" group-title="Divers",CINE+ FESTIVAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11828.ts
+#EXTINF:-1 tvg-id="cinefestival" tvg-name="CINE+ FESTIVAL" tvg-logo="http://logott.firstcloud.me/logo/8255.png" group-title="Divers",CINE+ FESTIVAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560493.ts
+#EXTINF:-1 tvg-id="cineclassic" tvg-name="CINE+ CLASSIC" tvg-logo="http://logott.firstcloud.me/logo/1184.png" group-title="Divers",CINE+ CLASSIC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4757.ts
+#EXTINF:-1 tvg-id="cineclassic" tvg-name="CINE+ CLASSIC" tvg-logo="http://logott.firstcloud.me/logo/21865.png" group-title="Divers",CINE+ CLASSIC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25438.ts
+#EXTINF:-1 tvg-id="cineclassic" tvg-name="CINE+ CLASSIC" tvg-logo="http://logott.firstcloud.me/logo/21865.png" group-title="Divers",CINE+ CLASSIC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768167.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/9289.png" group-title="Divers",PARAMOUNT CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12862.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/21866.png" group-title="Divers",PARAMOUNT CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25439.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/21866.png" group-title="Divers",PARAMOUNT CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768170.ts
+#EXTINF:-1 tvg-id="paramountdecale" tvg-name="PARAMOUNT DECALE" tvg-logo="http://logott.firstcloud.me/logo/46387.png" group-title="Divers",PARAMOUNT DECALE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/767657.ts
+#EXTINF:-1 tvg-id="paramountdecale" tvg-name="PARAMOUNT DECALE" tvg-logo="http://logott.firstcloud.me/logo/40213.png" group-title="Divers",PARAMOUNT DECALE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/728960.ts
+#EXTINF:-1 tvg-id="paramountdecale" tvg-name="PARAMOUNT DECALE" tvg-logo="http://logott.firstcloud.me/logo/55063.png" group-title="Divers",PARAMOUNT DECALE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/767994.ts
+#EXTINF:-1 tvg-id="driveinmoviechannel" tvg-name="DRIVE IN MOVIE CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/55061.png" group-title="Divers",DRIVE IN MOVIE CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104157.ts
+#EXTINF:-1 tvg-id="driveinmoviechannel" tvg-name="DRIVE IN MOVIE CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/48666.png" group-title="Divers",DRIVE IN MOVIE CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/902014.ts
+#EXTINF:-1 tvg-id="driveinmoviechannel" tvg-name="DRIVE IN MOVIE CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/55060.png" group-title="Divers",DRIVE IN MOVIE CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104156.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION" tvg-logo="http://logott.firstcloud.me/logo/9290.png" group-title="Divers",ACTION
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12863.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION" tvg-logo="http://logott.firstcloud.me/logo/2281.png" group-title="Divers",ACTION
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11548.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION" tvg-logo="http://logott.firstcloud.me/logo/7975.png" group-title="Divers",ACTION
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711115.ts
+#EXTINF:-1 tvg-id="tcmcinema" tvg-name="TCM CINEMA" tvg-logo="http://logott.firstcloud.me/logo/10781.png" group-title="Divers",TCM CINEMA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14354.ts
+#EXTINF:-1 tvg-id="tcmcinema" tvg-name="TCM CINEMA" tvg-logo="http://logott.firstcloud.me/logo/9382.png" group-title="Divers",TCM CINEMA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12955.ts
+#EXTINF:-1 tvg-id="tcmcinema" tvg-name="TCM CINEMA" tvg-logo="http://logott.firstcloud.me/logo/9382.png" group-title="Divers",TCM CINEMA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768171.ts
+#EXTINF:-1 tvg-id="eurochannel" tvg-name="EUROCHANNEL" tvg-logo="http://logott.firstcloud.me/logo/55379.png" group-title="Divers",EUROCHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1118473.ts
+#EXTINF:-1 tvg-id="eurochannel" tvg-name="EUROCHANNEL" tvg-logo="http://logott.firstcloud.me/logo/55378.png" group-title="Divers",EUROCHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1118472.ts
+#EXTINF:-1 tvg-id="eurochannel" tvg-name="EUROCHANNEL" tvg-logo="http://logott.firstcloud.me/logo/55377.png" group-title="Divers",EUROCHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1118471.ts
+#EXTINF:-1 tvg-id="lachainedenoel" tvg-name="LA CHAINE DE NOEL" tvg-logo="http://logott.firstcloud.me/logo/lachainedenoel.png" group-title="Divers",LA CHAINE DE NOEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/751154.ts
+#EXTINF:-1 tvg-id="lachainedenoel" tvg-name="LA CHAINE DE NOEL" tvg-logo="http://logott.firstcloud.me/logo/lachainedenoel.png" group-title="Divers",LA CHAINE DE NOEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/751153.ts
+#EXTINF:-1 tvg-id="studiomovie1" tvg-name="STUDIO MOVIE 1" tvg-logo="http://logott.firstcloud.me/logo/studiomovie1.png" group-title="Divers",STUDIO MOVIE 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768391.ts
+#EXTINF:-1 tvg-id="studiomovie1" tvg-name="STUDIO MOVIE 1" tvg-logo="http://logott.firstcloud.me/logo/studiomovie1.png" group-title="Divers",STUDIO MOVIE 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768390.ts
+#EXTINF:-1 tvg-id="studiomovie2" tvg-name="STUDIO MOVIE 2" tvg-logo="http://logott.firstcloud.me/logo/studiomovie2.png" group-title="Divers",STUDIO MOVIE 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768389.ts
+#EXTINF:-1 tvg-id="studiomovie2" tvg-name="STUDIO MOVIE 2" tvg-logo="http://logott.firstcloud.me/logo/studiomovie2.png" group-title="Divers",STUDIO MOVIE 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768388.ts
+#EXTINF:-1 tvg-id="studiomovie3" tvg-name="STUDIO MOVIE 3" tvg-logo="http://logott.firstcloud.me/logo/studiomovie3.png" group-title="Divers",STUDIO MOVIE 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768387.ts
+#EXTINF:-1 tvg-id="studiomovie3" tvg-name="STUDIO MOVIE 3" tvg-logo="http://logott.firstcloud.me/logo/studiomovie3.png" group-title="Divers",STUDIO MOVIE 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768386.ts
+#EXTINF:-1 tvg-id="studiomovie" tvg-name="STUDIO MOVIE" tvg-logo="http://logott.firstcloud.me/logo/studiomovie4k.png" group-title="Divers",STUDIO MOVIE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1094825.ts
+#EXTINF:-1 tvg-id="disneymarvels" tvg-name="DISNEY+ MARVELS" tvg-logo="http://logott.firstcloud.me/logo/40525.png" group-title="Divers",DISNEY+ MARVELS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/730888.ts
+#EXTINF:-1 tvg-id="disneymarvels" tvg-name="DISNEY+ MARVELS" tvg-logo="http://logott.firstcloud.me/logo/40526.png" group-title="Divers",DISNEY+ MARVELS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/730887.ts
+#EXTINF:-1 tvg-id="disneymarvels" tvg-name="DISNEY+ MARVELS" tvg-logo="http://logott.firstcloud.me/logo/40525.png" group-title="Divers",DISNEY+ MARVELS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/730886.ts
+#EXTINF:-1 tvg-id="disneystarwars" tvg-name="DISNEY+ STAR WARS" tvg-logo="http://logott.firstcloud.me/logo/46676.png" group-title="Divers",DISNEY+ STAR WARS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/779242.ts
+#EXTINF:-1 tvg-id="disneystarwars" tvg-name="DISNEY+ STAR WARS" tvg-logo="http://logott.firstcloud.me/logo/46677.png" group-title="Divers",DISNEY+ STAR WARS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/779243.ts
+#EXTINF:-1 tvg-id="disneystarwars" tvg-name="DISNEY+ STAR WARS" tvg-logo="http://logott.firstcloud.me/logo/46675.png" group-title="Divers",DISNEY+ STAR WARS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/779241.ts
+#EXTINF:-1 tvg-id="frorangecinemafr" tvg-name="•●★---|FR| ORANGE CINEMA |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| ORANGE CINEMA |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138440.ts
+#EXTINF:-1 tvg-id="frorangecinemafr" tvg-name="•●★--|FR| ORANGE CINEMA |FR|--★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★--|FR| ORANGE CINEMA |FR|--★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717235.ts
+#EXTINF:-1 tvg-id="ocsgocinema1" tvg-name="OCS GO CINEMA 1" tvg-logo="http://logip.firstcloud.me/picons/ocscinema1.png" group-title="Divers",OCS GO CINEMA 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717342.ts
+#EXTINF:-1 tvg-id="ocsgocinema1" tvg-name="OCS GO CINEMA 1" tvg-logo="http://logip.firstcloud.me/picons/ocscinema1.png" group-title="Divers",OCS GO CINEMA 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138441.ts
+#EXTINF:-1 tvg-id="ocsgocinema2" tvg-name="OCS GO CINEMA 2" tvg-logo="http://logip.firstcloud.me/picons/ocscinema2.png" group-title="Divers",OCS GO CINEMA 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717343.ts
+#EXTINF:-1 tvg-id="ocsgocinema2" tvg-name="OCS GO CINEMA 2" tvg-logo="http://logip.firstcloud.me/picons/ocscinema2.png" group-title="Divers",OCS GO CINEMA 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138442.ts
+#EXTINF:-1 tvg-id="ocsgocinema3" tvg-name="OCS GO CINEMA 3" tvg-logo="http://logip.firstcloud.me/picons/ocscinema3.png" group-title="Divers",OCS GO CINEMA 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717344.ts
+#EXTINF:-1 tvg-id="ocsgocinema3" tvg-name="OCS GO CINEMA 3" tvg-logo="http://logip.firstcloud.me/picons/ocscinema3.png" group-title="Divers",OCS GO CINEMA 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138443.ts
+#EXTINF:-1 tvg-id="ocsgocinema4" tvg-name="OCS GO CINEMA 4" tvg-logo="http://logip.firstcloud.me/picons/ocscinema4.png" group-title="Divers",OCS GO CINEMA 4
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717345.ts
+#EXTINF:-1 tvg-id="ocsgocinema4" tvg-name="OCS GO CINEMA 4" tvg-logo="http://logip.firstcloud.me/picons/ocscinema4.png" group-title="Divers",OCS GO CINEMA 4
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138444.ts
+#EXTINF:-1 tvg-id="ocsgocinema5" tvg-name="OCS GO CINEMA 5" tvg-logo="http://logip.firstcloud.me/picons/ocscinema5.png" group-title="Divers",OCS GO CINEMA 5
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717346.ts
+#EXTINF:-1 tvg-id="ocsgocinema5" tvg-name="OCS GO CINEMA 5" tvg-logo="http://logip.firstcloud.me/picons/ocscinema5.png" group-title="Divers",OCS GO CINEMA 5
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138445.ts
+#EXTINF:-1 tvg-id="ocsgocinema6" tvg-name="OCS GO CINEMA 6" tvg-logo="http://logip.firstcloud.me/picons/ocscinema6.png" group-title="Divers",OCS GO CINEMA 6
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717347.ts
+#EXTINF:-1 tvg-id="ocsgocinema6" tvg-name="OCS GO CINEMA 6" tvg-logo="http://logip.firstcloud.me/picons/ocscinema6.png" group-title="Divers",OCS GO CINEMA 6
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138447.ts
+#EXTINF:-1 tvg-id="ocsgocinema7" tvg-name="OCS GO CINEMA 7" tvg-logo="http://logip.firstcloud.me/picons/ocscinema7.png" group-title="Divers",OCS GO CINEMA 7
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717348.ts
+#EXTINF:-1 tvg-id="ocsgocinema7" tvg-name="OCS GO CINEMA 7" tvg-logo="http://logip.firstcloud.me/picons/ocscinema7.png" group-title="Divers",OCS GO CINEMA 7
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138446.ts
+#EXTINF:-1 tvg-id="ocsgocinema8" tvg-name="OCS GO CINEMA 8" tvg-logo="http://logip.firstcloud.me/picons/ocscinema8.png" group-title="Divers",OCS GO CINEMA 8
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717349.ts
+#EXTINF:-1 tvg-id="ocsgocinema8" tvg-name="OCS GO CINEMA 8" tvg-logo="http://logip.firstcloud.me/picons/ocscinema8.png" group-title="Divers",OCS GO CINEMA 8
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138448.ts
+#EXTINF:-1 tvg-id="ocsgocinema9" tvg-name="OCS GO CINEMA 9" tvg-logo="http://logip.firstcloud.me/picons/ocscinema9.png" group-title="Divers",OCS GO CINEMA 9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717350.ts
+#EXTINF:-1 tvg-id="ocsgocinema9" tvg-name="OCS GO CINEMA 9" tvg-logo="http://logip.firstcloud.me/picons/ocscinema9.png" group-title="Divers",OCS GO CINEMA 9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138449.ts
+#EXTINF:-1 tvg-id="ocsgocinema10" tvg-name="OCS GO CINEMA 10" tvg-logo="http://logip.firstcloud.me/picons/ocscinema10.png" group-title="Divers",OCS GO CINEMA 10
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717351.ts
+#EXTINF:-1 tvg-id="ocsgocinema10" tvg-name="OCS GO CINEMA 10" tvg-logo="http://logip.firstcloud.me/picons/ocscinema10.png" group-title="Divers",OCS GO CINEMA 10
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138450.ts
+#EXTINF:-1 tvg-id="ocsgocinema1" tvg-name="OCS GO CINEMA 1" tvg-logo="http://logip.firstcloud.me/picons/ocscinemauhd1.png" group-title="Divers",OCS GO CINEMA 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/721992.ts
+#EXTINF:-1 tvg-id="ocsgocinema2" tvg-name="OCS GO CINEMA 2" tvg-logo="http://logott.firstcloud.me/logo/721993.png" group-title="Divers",OCS GO CINEMA 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/721993.ts
+#EXTINF:-1 tvg-id="ocsgocinema3" tvg-name="OCS GO CINEMA 3" tvg-logo="http://logip.firstcloud.me/picons/ocscinemauhd3.png" group-title="Divers",OCS GO CINEMA 3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/721994.ts
+#EXTINF:-1 tvg-id="ocsgocinema4" tvg-name="OCS GO CINEMA 4" tvg-logo="http://logip.firstcloud.me/picons/ocscinemauhd4.png" group-title="Divers",OCS GO CINEMA 4
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/721995.ts
+#EXTINF:-1 tvg-id="frseriesfr" tvg-name="•●★---|FR| SERIES |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| SERIES |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103948.ts
+#EXTINF:-1 tvg-id="frseriesfr" tvg-name="•●★---|FR| SERIES |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| SERIES |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103947.ts
+#EXTINF:-1 tvg-id="canalseries.fr" tvg-name="CANAL+ SERIES" tvg-logo="http://logott.firstcloud.me/logo/9523.png" group-title="France",CANAL+ SERIES
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13096.ts
+#EXTINF:-1 tvg-id="canalseries.fr" tvg-name="CANAL+ SERIES" tvg-logo="http://logott.firstcloud.me/logo/1176.png" group-title="France",CANAL+ SERIES
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8717.ts
+#EXTINF:-1 tvg-id="canalseries.fr" tvg-name="CANAL+ SERIES" tvg-logo="http://logott.firstcloud.me/logo/5144.png" group-title="France",CANAL+ SERIES
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/560480.ts
+#EXTINF:-1 tvg-id="13emerue" tvg-name="13EME RUE" tvg-logo="http://logott.firstcloud.me/logo/9388.png" group-title="Divers",13EME RUE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12961.ts
+#EXTINF:-1 tvg-id="13emerue" tvg-name="13EME RUE" tvg-logo="http://logott.firstcloud.me/logo/1194.png" group-title="Divers",13EME RUE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8724.ts
+#EXTINF:-1 tvg-id="13emerue" tvg-name="13EME RUE" tvg-logo="http://logott.firstcloud.me/logo/5151.png" group-title="Divers",13EME RUE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711117.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY" tvg-logo="http://logott.firstcloud.me/logo/9389.png" group-title="Divers",SYFY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12962.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY" tvg-logo="http://logott.firstcloud.me/logo/1195.png" group-title="Divers",SYFY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8725.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY" tvg-logo="http://logott.firstcloud.me/logo/5152.png" group-title="Divers",SYFY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711118.ts
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="WARNER TV" tvg-logo="http://logott.firstcloud.me/logo/22305.png" group-title="Divers",WARNER TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25878.ts
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="WARNER TV" tvg-logo="http://logott.firstcloud.me/logo/21895.png" group-title="Divers",WARNER TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25469.ts
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="WARNER TV" tvg-logo="http://logott.firstcloud.me/logo/21896.png" group-title="Divers",WARNER TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726448.ts
+#EXTINF:-1 tvg-id="polar" tvg-name="POLAR+" tvg-logo="http://logott.firstcloud.me/logo/22200.png" group-title="Divers",POLAR+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25773.ts
+#EXTINF:-1 tvg-id="polar" tvg-name="POLAR+" tvg-logo="http://logott.firstcloud.me/logo/21893.png" group-title="Divers",POLAR+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25467.ts
+#EXTINF:-1 tvg-id="polar" tvg-name="POLAR+" tvg-logo="http://logott.firstcloud.me/logo/21894.png" group-title="Divers",POLAR+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726449.ts
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="SERIE CLUB" tvg-logo="http://logott.firstcloud.me/logo/18443.png" group-title="Divers",SERIE CLUB
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22016.ts
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="SERIE CLUB" tvg-logo="http://logott.firstcloud.me/logo/1196.png" group-title="Divers",SERIE CLUB
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27868.ts
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="SERIE CLUB" tvg-logo="http://logott.firstcloud.me/logo/24295.png" group-title="Divers",SERIE CLUB
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726451.ts
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://logott.firstcloud.me/logo/10707.png" group-title="Divers",TV BREIZH
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14280.ts
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://logott.firstcloud.me/logo/3267.png" group-title="Divers",TV BREIZH
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11829.ts
+#EXTINF:-1 tvg-id="TVBreizh.fr" tvg-name="TV BREIZH" tvg-logo="http://logott.firstcloud.me/logo/8256.png" group-title="Divers",TV BREIZH
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726453.ts
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://logott.firstcloud.me/logo/10782.png" group-title="Belgique",RTL9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14355.ts
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://logott.firstcloud.me/logo/9328.png" group-title="Belgique",RTL9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4782.ts
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://logott.firstcloud.me/logo/1209.png" group-title="Belgique",RTL9
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711121.ts
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://logott.firstcloud.me/logo/9679.png" group-title="Divers",AB1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13252.ts
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://logott.firstcloud.me/logo/1205.png" group-title="Divers",AB1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11822.ts
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://logott.firstcloud.me/logo/8249.png" group-title="Divers",AB1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768000.ts
+#EXTINF:-1 tvg-id="novelastv" tvg-name="NOVELAS TV" tvg-logo="http://logott.firstcloud.me/logo/22308.png" group-title="Divers",NOVELAS TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25881.ts
+#EXTINF:-1 tvg-id="novelastv" tvg-name="NOVELAS TV" tvg-logo="http://logott.firstcloud.me/logo/21897.png" group-title="Divers",NOVELAS TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25470.ts
+#EXTINF:-1 tvg-id="novelastv" tvg-name="NOVELAS TV" tvg-logo="http://logott.firstcloud.me/logo/22308.png" group-title="Divers",NOVELAS TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105409.ts
+#EXTINF:-1 tvg-id="francetvseries.fr" tvg-name="FRANCE TV SERIES" tvg-logo="http://logott.firstcloud.me/logo/55589.png" group-title="France",FRANCE TV SERIES
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1145639.ts
+#EXTINF:-1 tvg-id="francetvseries.fr" tvg-name="FRANCE TV SERIES" tvg-logo="http://logott.firstcloud.me/logo/55588.png" group-title="France",FRANCE TV SERIES
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1145638.ts
+#EXTINF:-1 tvg-id="studiocomedy" tvg-name="STUDIO COMEDY" tvg-logo="http://logott.firstcloud.me/logo/54714.png" group-title="Divers",STUDIO COMEDY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1097059.ts
+#EXTINF:-1 tvg-id="studiocomedy" tvg-name="STUDIO COMEDY" tvg-logo="http://logott.firstcloud.me/logo/54714.png" group-title="Divers",STUDIO COMEDY
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105410.ts
+#EXTINF:-1 tvg-id="studiocrime" tvg-name="STUDIO CRIME" tvg-logo="http://logott.firstcloud.me/logo/54713.png" group-title="Divers",STUDIO CRIME
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105411.ts
+#EXTINF:-1 tvg-id="studiocrime" tvg-name="STUDIO CRIME" tvg-logo="http://logott.firstcloud.me/logo/54713.png" group-title="Divers",STUDIO CRIME
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105412.ts
+#EXTINF:-1 tvg-id="frdivertissementfr" tvg-name="•●★--|FR| DIVERTISSEMENT |FR|--★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★--|FR| DIVERTISSEMENT |FR|--★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717236.ts
+#EXTINF:-1 tvg-id="frdivertissementfr" tvg-name="•●★-|FR| DIVERTISSEMENT |FR|-★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★-|FR| DIVERTISSEMENT |FR|-★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/5782.ts
+#EXTINF:-1 tvg-id="comedie" tvg-name="COMEDIE+" tvg-logo="http://logott.firstcloud.me/logo/10464.png" group-title="Divers",COMEDIE+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14037.ts
+#EXTINF:-1 tvg-id="comedie" tvg-name="COMEDIE+" tvg-logo="http://logott.firstcloud.me/logo/1193.png" group-title="Divers",COMEDIE+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8723.ts
+#EXTINF:-1 tvg-id="comedie" tvg-name="COMEDIE+" tvg-logo="http://logott.firstcloud.me/logo/5150.png" group-title="Divers",COMEDIE+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711116.ts
+#EXTINF:-1 tvg-id="olympiatv" tvg-name="OLYMPIA TV" tvg-logo="http://logott.firstcloud.me/logo/45867.png" group-title="Divers",OLYMPIA TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/759974.ts
+#EXTINF:-1 tvg-id="olympiatv" tvg-name="OLYMPIA TV" tvg-logo="http://logott.firstcloud.me/logo/45867.png" group-title="Divers",OLYMPIA TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/759975.ts
+#EXTINF:-1 tvg-id="olympiatv" tvg-name="OLYMPIA TV" tvg-logo="http://logott.firstcloud.me/logo/55057.png" group-title="Divers",OLYMPIA TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104153.ts
+#EXTINF:-1 tvg-id="parispremiere" tvg-name="PARIS PREMIERE" tvg-logo="http://logott.firstcloud.me/logo/19173.png" group-title="Divers",PARIS PREMIERE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22746.ts
+#EXTINF:-1 tvg-id="parispremiere" tvg-name="PARIS PREMIERE" tvg-logo="http://logott.firstcloud.me/logo/1208.png" group-title="Divers",PARIS PREMIERE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8727.ts
+#EXTINF:-1 tvg-id="parispremiere" tvg-name="PARIS PREMIERE" tvg-logo="http://logott.firstcloud.me/logo/5154.png" group-title="Divers",PARIS PREMIERE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726452.ts
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="TEVA" tvg-logo="http://logott.firstcloud.me/logo/22201.png" group-title="Divers",TEVA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25774.ts
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="TEVA" tvg-logo="http://logott.firstcloud.me/logo/1207.png" group-title="Divers",TEVA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12407.ts
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="TEVA" tvg-logo="http://logott.firstcloud.me/logo/8834.png" group-title="Divers",TEVA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711120.ts
+#EXTINF:-1 tvg-id="bet" tvg-name="BET" tvg-logo="http://logott.firstcloud.me/logo/22198.png" group-title="Divers",BET
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25771.ts
+#EXTINF:-1 tvg-id="bet" tvg-name="BET" tvg-logo="http://logott.firstcloud.me/logo/1210.png" group-title="Divers",BET
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13065.ts
+#EXTINF:-1 tvg-id="bet" tvg-name="BET" tvg-logo="http://logott.firstcloud.me/logo/9492.png" group-title="Divers",BET
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726454.ts
+#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB3" tvg-logo="http://logott.firstcloud.me/logo/18503.png" group-title="Divers",AB3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22076.ts
+#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB3" tvg-logo="http://logott.firstcloud.me/logo/ab-3.png" group-title="Divers",AB3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11826.ts
+#EXTINF:-1 tvg-id="AB3.be" tvg-name="AB3" tvg-logo="http://logott.firstcloud.me/logo/3742.png" group-title="Divers",AB3
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768003.ts
+#EXTINF:-1 tvg-id="carac1" tvg-name="CARAC 1" tvg-logo="http://logott.firstcloud.me/logo/21864.png" group-title="Divers",CARAC 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25437.ts
+#EXTINF:-1 tvg-id="carac1" tvg-name="CARAC 1" tvg-logo="http://logott.firstcloud.me/logo/10013.png" group-title="Divers",CARAC 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13586.ts
+#EXTINF:-1 tvg-id="carac1" tvg-name="CARAC 1" tvg-logo="http://logott.firstcloud.me/logo/51445.png" group-title="Divers",CARAC 1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983969.ts
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://logott.firstcloud.me/logo/22313.png" group-title="Divers",TV5 MONDE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25886.ts
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://logott.firstcloud.me/logo/1223.png" group-title="Divers",TV5 MONDE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4796.ts
+#EXTINF:-1 tvg-id="TV5Monde.fr" tvg-name="TV5 MONDE" tvg-logo="http://logott.firstcloud.me/logo/46394.png" group-title="Divers",TV5 MONDE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768072.ts
+#EXTINF:-1 tvg-id="tv5mondeeurope" tvg-name="TV5 MONDE EUROPE" tvg-logo="http://logott.firstcloud.me/logo/55866.png" group-title="Divers",TV5 MONDE EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1164497.ts
+#EXTINF:-1 tvg-id="tv5mondeeurope" tvg-name="TV5 MONDE EUROPE" tvg-logo="http://logott.firstcloud.me/logo/55865.png" group-title="Divers",TV5 MONDE EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1164496.ts
+#EXTINF:-1 tvg-id="tv5mondeeurope" tvg-name="TV5 MONDE EUROPE" tvg-logo="http://logott.firstcloud.me/logo/55864.png" group-title="Divers",TV5 MONDE EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1164495.ts
+#EXTINF:-1 tvg-id="frdecouvertefr" tvg-name="•●★----|FR| DECOUVERTE |FR|----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★----|FR| DECOUVERTE |FR|----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138422.ts
+#EXTINF:-1 tvg-id="frdecouvertefr" tvg-name="•●★---|FR| DECOUVERTE |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| DECOUVERTE |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/5783.ts
+#EXTINF:-1 tvg-id="canaldocs.fr" tvg-name="CANAL+ DOCS" tvg-logo="http://logott.firstcloud.me/logo/49100.png" group-title="France",CANAL+ DOCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/951129.ts
+#EXTINF:-1 tvg-id="canaldocs.fr" tvg-name="CANAL+ DOCS" tvg-logo="http://logott.firstcloud.me/logo/49101.png" group-title="France",CANAL+ DOCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/951130.ts
+#EXTINF:-1 tvg-id="canaldocs.fr" tvg-name="CANAL+ DOCS" tvg-logo="http://logott.firstcloud.me/logo/49102.png" group-title="France",CANAL+ DOCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/951131.ts
+#EXTINF:-1 tvg-id="planete" tvg-name="PLANETE+" tvg-logo="http://logott.firstcloud.me/logo/10478.png" group-title="Divers",PLANETE+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14051.ts
+#EXTINF:-1 tvg-id="planete" tvg-name="PLANETE+" tvg-logo="http://logott.firstcloud.me/logo/1228.png" group-title="Divers",PLANETE+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12406.ts
+#EXTINF:-1 tvg-id="planete" tvg-name="PLANETE+" tvg-logo="http://logott.firstcloud.me/logo/8833.png" group-title="Divers",PLANETE+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726456.ts
+#EXTINF:-1 tvg-id="planetecrime" tvg-name="PLANETE+ CRIME" tvg-logo="http://logott.firstcloud.me/logo/9521.png" group-title="Divers",PLANETE+ CRIME
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13094.ts
+#EXTINF:-1 tvg-id="planetecrime" tvg-name="PLANETE+ CRIME" tvg-logo="http://logott.firstcloud.me/logo/1229.png" group-title="Divers",PLANETE+ CRIME
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8735.ts
+#EXTINF:-1 tvg-id="planetecrime" tvg-name="PLANETE+ CRIME" tvg-logo="http://logott.firstcloud.me/logo/5162.png" group-title="Divers",PLANETE+ CRIME
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726457.ts
+#EXTINF:-1 tvg-id="planeteaventure" tvg-name="PLANETE+ AVENTURE" tvg-logo="http://logott.firstcloud.me/logo/9522.png" group-title="Divers",PLANETE+ AVENTURE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13095.ts
+#EXTINF:-1 tvg-id="planeteaventure" tvg-name="PLANETE+ AVENTURE" tvg-logo="http://logott.firstcloud.me/logo/7990.png" group-title="Divers",PLANETE+ AVENTURE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4803.ts
+#EXTINF:-1 tvg-id="planeteaventure" tvg-name="PLANETE+ AVENTURE" tvg-logo="http://logott.firstcloud.me/logo/1230.png" group-title="Divers",PLANETE+ AVENTURE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726458.ts
+#EXTINF:-1 tvg-id="nationalgeo" tvg-name="NATIONAL GEO" tvg-logo="http://logott.firstcloud.me/logo/10786.png" group-title="Divers",NATIONAL GEO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14359.ts
+#EXTINF:-1 tvg-id="nationalgeo" tvg-name="NATIONAL GEO" tvg-logo="http://logott.firstcloud.me/logo/1233.png" group-title="Divers",NATIONAL GEO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11823.ts
+#EXTINF:-1 tvg-id="nationalgeo" tvg-name="NATIONAL GEO" tvg-logo="http://logott.firstcloud.me/logo/8250.png" group-title="Divers",NATIONAL GEO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726462.ts
+#EXTINF:-1 tvg-id="nationalgeowild" tvg-name="NATIONAL GEO WILD" tvg-logo="http://logott.firstcloud.me/logo/10708.png" group-title="Divers",NATIONAL GEO WILD
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14281.ts
+#EXTINF:-1 tvg-id="nationalgeowild" tvg-name="NATIONAL GEO WILD" tvg-logo="http://logott.firstcloud.me/logo/1234.png" group-title="Divers",NATIONAL GEO WILD
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8739.ts
+#EXTINF:-1 tvg-id="nationalgeowild" tvg-name="NATIONAL GEO WILD" tvg-logo="http://logott.firstcloud.me/logo/5166.png" group-title="Divers",NATIONAL GEO WILD
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726463.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/10784.png" group-title="Divers",DISCOVERY CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14357.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/5163.png" group-title="Divers",DISCOVERY CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12148.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/8575.png" group-title="Divers",DISCOVERY CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726460.ts
+#EXTINF:-1 tvg-id="TLC.fr" tvg-name="TLC" tvg-logo="http://logott.firstcloud.me/logo/10785.png" group-title="Divers",TLC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14358.ts
+#EXTINF:-1 tvg-id="TLC.fr" tvg-name="TLC" tvg-logo="http://logott.firstcloud.me/logo/5164.png" group-title="Divers",TLC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12199.ts
+#EXTINF:-1 tvg-id="TLC.fr" tvg-name="TLC" tvg-logo="http://logott.firstcloud.me/logo/8626.png" group-title="Divers",TLC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726461.ts
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="http://logott.firstcloud.me/logo/23318.png" group-title="Divers",DISCOVERY ID
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/26891.ts
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="http://logott.firstcloud.me/logo/8847.png" group-title="Divers",DISCOVERY ID
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12420.ts
+#EXTINF:-1 tvg-id="discoveryid" tvg-name="DISCOVERY ID" tvg-logo="http://logott.firstcloud.me/logo/51428.png" group-title="Divers",DISCOVERY ID
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983667.ts
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="http://logott.firstcloud.me/logo/1243.png" group-title="Divers",RMC DECOUVERTE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4816.ts
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="http://logott.firstcloud.me/logo/10696.png" group-title="Divers",RMC DECOUVERTE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14269.ts
+#EXTINF:-1 tvg-id="RMCdecouverte.fr" tvg-name="RMC DECOUVERTE" tvg-logo="http://logott.firstcloud.me/logo/1243.png" group-title="Divers",RMC DECOUVERTE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105413.ts
+#EXTINF:-1 tvg-id="museum" tvg-name="MUSEUM" tvg-logo="http://logott.firstcloud.me/logo/48651.png" group-title="Divers",MUSEUM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/898339.ts
+#EXTINF:-1 tvg-id="museum" tvg-name="MUSEUM" tvg-logo="http://logott.firstcloud.me/logo/18444.png" group-title="Divers",MUSEUM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22017.ts
+#EXTINF:-1 tvg-id="museum" tvg-name="MUSEUM" tvg-logo="http://logott.firstcloud.me/logo/16289.png" group-title="Divers",MUSEUM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/19862.ts
+#EXTINF:-1 tvg-id="museum" tvg-name="MUSEUM" tvg-logo="http://logott.firstcloud.me/logo/16289.png" group-title="Divers",MUSEUM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105840.ts
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="USHUAIA TV" tvg-logo="http://logott.firstcloud.me/logo/10479.png" group-title="Divers",USHUAIA TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14052.ts
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="USHUAIA TV" tvg-logo="http://logott.firstcloud.me/logo/9329.png" group-title="Divers",USHUAIA TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4809.ts
+#EXTINF:-1 tvg-id="UshuaiaTV.fr" tvg-name="USHUAIA TV" tvg-logo="http://logott.firstcloud.me/logo/1236.png" group-title="Divers",USHUAIA TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726464.ts
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://logott.firstcloud.me/logo/18446.png" group-title="Divers",HISTOIRE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22019.ts
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://logott.firstcloud.me/logo/1237.png" group-title="Divers",HISTOIRE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27870.ts
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="HISTOIRE" tvg-logo="http://logott.firstcloud.me/logo/24297.png" group-title="Divers",HISTOIRE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726465.ts
+#EXTINF:-1 tvg-id="toutelhistoire" tvg-name="TOUTE L'HISTOIRE" tvg-logo="http://logott.firstcloud.me/logo/22322.png" group-title="Divers",TOUTE L'HISTOIRE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25895.ts
+#EXTINF:-1 tvg-id="toutelhistoire" tvg-name="TOUTE L'HISTOIRE" tvg-logo="http://logott.firstcloud.me/logo/1238.png" group-title="Divers",TOUTE L'HISTOIRE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138402.ts
+#EXTINF:-1 tvg-id="toutelhistoire" tvg-name="TOUTE L'HISTOIRE" tvg-logo="http://logott.firstcloud.me/logo/22322.png" group-title="Divers",TOUTE L'HISTOIRE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105414.ts
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="SEASONS" tvg-logo="http://logott.firstcloud.me/logo/10709.png" group-title="Divers",SEASONS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14282.ts
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="SEASONS" tvg-logo="http://logott.firstcloud.me/logo/5168.png" group-title="Divers",SEASONS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8741.ts
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="SEASONS" tvg-logo="http://logott.firstcloud.me/logo/5168.png" group-title="Divers",SEASONS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104148.ts
+#EXTINF:-1 tvg-id="chasseetpeche" tvg-name="CHASSE ET PECHE" tvg-logo="http://logott.firstcloud.me/logo/22323.png" group-title="Divers",CHASSE ET PECHE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25896.ts
+#EXTINF:-1 tvg-id="chasseetpeche" tvg-name="CHASSE ET PECHE" tvg-logo="http://logott.firstcloud.me/logo/24299.png" group-title="Divers",CHASSE ET PECHE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27872.ts
+#EXTINF:-1 tvg-id="chasseetpeche" tvg-name="CHASSE ET PECHE" tvg-logo="http://logott.firstcloud.me/logo/22323.png" group-title="Divers",CHASSE ET PECHE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105415.ts
+#EXTINF:-1 tvg-id="sciencevie" tvg-name="SCIENCE & VIE" tvg-logo="http://logott.firstcloud.me/logo/9331.png" group-title="Divers",SCIENCE & VIE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12904.ts
+#EXTINF:-1 tvg-id="sciencevie" tvg-name="SCIENCE & VIE" tvg-logo="http://logott.firstcloud.me/logo/1241.png" group-title="Divers",SCIENCE & VIE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27871.ts
+#EXTINF:-1 tvg-id="sciencevie" tvg-name="SCIENCE & VIE" tvg-logo="http://logott.firstcloud.me/logo/9331.png" group-title="Divers",SCIENCE & VIE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105416.ts
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://logott.firstcloud.me/logo/18498.png" group-title="Divers",CRIME DISTRICT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22071.ts
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://logott.firstcloud.me/logo/21869.png" group-title="Divers",CRIME DISTRICT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25442.ts
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT" tvg-logo="http://logott.firstcloud.me/logo/21869.png" group-title="Divers",CRIME DISTRICT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768169.ts
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://logott.firstcloud.me/logo/18483.png" group-title="Divers",ANIMAUX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22056.ts
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://logott.firstcloud.me/logo/8832.png" group-title="Divers",ANIMAUX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12405.ts
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ANIMAUX" tvg-logo="http://logott.firstcloud.me/logo/18483.png" group-title="Divers",ANIMAUX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105417.ts
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK" tvg-logo="http://logott.firstcloud.me/logo/9680.png" group-title="Divers",TREK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13253.ts
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK" tvg-logo="http://logott.firstcloud.me/logo/10346.png" group-title="Divers",TREK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13919.ts
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK" tvg-logo="http://logott.firstcloud.me/logo/9680.png" group-title="Divers",TREK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105418.ts
+#EXTINF:-1 tvg-id="lespritsorcier" tvg-name="L'ESPRIT SORCIER" tvg-logo="http://logott.firstcloud.me/logo/53288.png" group-title="Divers",L'ESPRIT SORCIER
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1035557.ts
+#EXTINF:-1 tvg-id="lespritsorcier" tvg-name="L'ESPRIT SORCIER" tvg-logo="http://logott.firstcloud.me/logo/53289.png" group-title="Divers",L'ESPRIT SORCIER
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1035558.ts
+#EXTINF:-1 tvg-id="lespritsorcier" tvg-name="L'ESPRIT SORCIER" tvg-logo="http://logott.firstcloud.me/logo/54855.png" group-title="Divers",L'ESPRIT SORCIER
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103951.ts
+#EXTINF:-1 tvg-id="francetvdocs.fr" tvg-name="FRANCE TV DOCS" tvg-logo="http://logott.firstcloud.me/logo/55591.png" group-title="France",FRANCE TV DOCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1145641.ts
+#EXTINF:-1 tvg-id="francetvdocs.fr" tvg-name="FRANCE TV DOCS" tvg-logo="http://logott.firstcloud.me/logo/55590.png" group-title="France",FRANCE TV DOCS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1145640.ts
+#EXTINF:-1 tvg-id="imearth" tvg-name="IMEARTH" tvg-logo="http://logott.firstcloud.me/logo/55584.png" group-title="Divers",IMEARTH
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1144669.ts
+#EXTINF:-1 tvg-id="imearth" tvg-name="IMEARTH" tvg-logo="http://logott.firstcloud.me/logo/55583.png" group-title="Divers",IMEARTH
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1144668.ts
+#EXTINF:-1 tvg-id="imearth" tvg-name="IMEARTH" tvg-logo="http://logott.firstcloud.me/logo/55582.png" group-title="Divers",IMEARTH
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1144667.ts
+#EXTINF:-1 tvg-id="inultra" tvg-name="INULTRA" tvg-logo="http://logott.firstcloud.me/logo/54547.png" group-title="Divers",INULTRA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1087473.ts
+#EXTINF:-1 tvg-id="travelxp" tvg-name="TRAVELXP" tvg-logo="http://logott.firstcloud.me/logo/54776.png" group-title="Divers",TRAVELXP
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1100535.ts
+#EXTINF:-1 tvg-id="NASA.Television.(NASA).us" tvg-name="NASA" tvg-logo="http://logott.firstcloud.me/logo/40046.png" group-title="Divers",NASA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/723434.ts
+#EXTINF:-1 tvg-id="lovenature" tvg-name="LOVE NATURE" tvg-logo="http://logott.firstcloud.me/logo/40044.png" group-title="Divers",LOVE NATURE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/723432.ts
+#EXTINF:-1 tvg-id="frenfancefr" tvg-name="•●★-----|FR| ENFANCE |FR|-----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★-----|FR| ENFANCE |FR|-----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138423.ts
+#EXTINF:-1 tvg-id="frenfancefr" tvg-name="•●★----|FR| ENFANCE |FR|----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★----|FR| ENFANCE |FR|----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/5785.ts
+#EXTINF:-1 tvg-id="canalkids.fr" tvg-name="CANAL+ KIDS" tvg-logo="http://logott.firstcloud.me/logo/49103.png" group-title="France",CANAL+ KIDS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/951132.ts
+#EXTINF:-1 tvg-id="canalkids.fr" tvg-name="CANAL+ KIDS" tvg-logo="http://logott.firstcloud.me/logo/49104.png" group-title="France",CANAL+ KIDS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/951133.ts
+#EXTINF:-1 tvg-id="canalkids.fr" tvg-name="CANAL+ KIDS" tvg-logo="http://logott.firstcloud.me/logo/49105.png" group-title="France",CANAL+ KIDS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/951134.ts
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="PIWI+" tvg-logo="http://logott.firstcloud.me/logo/18449.png" group-title="Divers",PIWI+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22022.ts
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="PIWI+" tvg-logo="http://logott.firstcloud.me/logo/24304.png" group-title="Divers",PIWI+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27877.ts
+#EXTINF:-1 tvg-id="PIWI.fr" tvg-name="PIWI+" tvg-logo="http://logott.firstcloud.me/logo/24304.png" group-title="Divers",PIWI+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726472.ts
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="DISNEY JUNIOR" tvg-logo="http://logott.firstcloud.me/logo/20956.png" group-title="Divers",DISNEY JUNIOR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/24529.ts
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="DISNEY JUNIOR" tvg-logo="http://logott.firstcloud.me/logo/1289.png" group-title="Divers",DISNEY JUNIOR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8747.ts
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="DISNEY JUNIOR" tvg-logo="http://logott.firstcloud.me/logo/5174.png" group-title="Divers",DISNEY JUNIOR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726485.ts
+#EXTINF:-1 tvg-id="nickelodeonjunior" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://logott.firstcloud.me/logo/18786.png" group-title="Divers",NICKELODEON JUNIOR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22359.ts
+#EXTINF:-1 tvg-id="nickelodeonjunior" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://logott.firstcloud.me/logo/1291.png" group-title="Divers",NICKELODEON JUNIOR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27878.ts
+#EXTINF:-1 tvg-id="nickelodeonjunior" tvg-name="NICKELODEON JUNIOR" tvg-logo="http://logott.firstcloud.me/logo/24305.png" group-title="Divers",NICKELODEON JUNIOR
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726500.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG" tvg-logo="http://logott.firstcloud.me/logo/10710.png" group-title="Divers",BOOMERANG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14283.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG" tvg-logo="http://logott.firstcloud.me/logo/1294.png" group-title="Divers",BOOMERANG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8748.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG" tvg-logo="http://logott.firstcloud.me/logo/5175.png" group-title="Divers",BOOMERANG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768032.ts
+#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="CARTOONITO" tvg-logo="http://logott.firstcloud.me/logo/1306.png" group-title="Divers",CARTOONITO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4879.ts
+#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="CARTOONITO" tvg-logo="http://logott.firstcloud.me/logo/25018.png" group-title="Divers",CARTOONITO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/28591.ts
+#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="CARTOONITO" tvg-logo="http://logott.firstcloud.me/logo/1306.png" group-title="Divers",CARTOONITO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105420.ts
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="TIJI" tvg-logo="http://logott.firstcloud.me/logo/18487.png" group-title="Divers",TIJI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22060.ts
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="TIJI" tvg-logo="http://logott.firstcloud.me/logo/1290.png" group-title="Divers",TIJI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22014.ts
+#EXTINF:-1 tvg-id="Tiji.fr" tvg-name="TIJI" tvg-logo="http://logott.firstcloud.me/logo/18441.png" group-title="Divers",TIJI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726476.ts
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="TELETOON+" tvg-logo="http://logott.firstcloud.me/logo/1300.png" group-title="Divers",TELETOON+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4873.ts
+#EXTINF:-1 tvg-id="TeleTOON.fr" tvg-name="TELETOON+" tvg-logo="http://logott.firstcloud.me/logo/24307.png" group-title="Divers",TELETOON+
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27880.ts
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/10713.png" group-title="Divers",DISNEY CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14286.ts
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/1303.png" group-title="Divers",DISNEY CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8751.ts
+#EXTINF:-1 tvg-id="DisneyChannel.fr" tvg-name="DISNEY CHANNEL" tvg-logo="http://logott.firstcloud.me/logo/5178.png" group-title="Divers",DISNEY CHANNEL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726489.ts
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://logott.firstcloud.me/logo/21545.png" group-title="Divers",NICKELODEON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25118.ts
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://logott.firstcloud.me/logo/9416.png" group-title="Divers",NICKELODEON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4869.ts
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="NICKELODEON" tvg-logo="http://logott.firstcloud.me/logo/9416.png" group-title="Divers",NICKELODEON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105428.ts
+#EXTINF:-1 tvg-id="nickelodeon1" tvg-name="NICKELODEON +1" tvg-logo="http://logott.firstcloud.me/logo/22208.png" group-title="Divers",NICKELODEON +1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25781.ts
+#EXTINF:-1 tvg-id="nickelodeon1" tvg-name="NICKELODEON +1" tvg-logo="http://logott.firstcloud.me/logo/22208.png" group-title="Divers",NICKELODEON +1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717406.ts
+#EXTINF:-1 tvg-id="nickelodeon1" tvg-name="NICKELODEON +1" tvg-logo="http://logott.firstcloud.me/logo/22208.png" group-title="Divers",NICKELODEON +1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105430.ts
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="CANAL J" tvg-logo="http://logott.firstcloud.me/logo/18488.png" group-title="France",CANAL J
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22061.ts
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="CANAL J" tvg-logo="http://logott.firstcloud.me/logo/9417.png" group-title="France",CANAL J
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11236.ts
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="CANAL J" tvg-logo="http://logott.firstcloud.me/logo/7663.png" group-title="France",CANAL J
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768036.ts
+#EXTINF:-1 tvg-id="nickelodeonteen.be" tvg-name="NICKELODEON TEEN" tvg-logo="http://logott.firstcloud.me/logo/22391.png" group-title="Belgique",NICKELODEON TEEN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25964.ts
+#EXTINF:-1 tvg-id="nickelodeonteen.be" tvg-name="NICKELODEON TEEN" tvg-logo="http://logott.firstcloud.me/logo/7708.png" group-title="Belgique",NICKELODEON TEEN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11281.ts
+#EXTINF:-1 tvg-id="nickelodeonteen.be" tvg-name="NICKELODEON TEEN" tvg-logo="http://logott.firstcloud.me/logo/22391.png" group-title="Belgique",NICKELODEON TEEN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105485.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://logott.firstcloud.me/logo/10711.png" group-title="Divers",CARTOON NETWORK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14284.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://logott.firstcloud.me/logo/1298.png" group-title="Divers",CARTOON NETWORK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8749.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.fr" tvg-name="CARTOON NETWORK" tvg-logo="http://logott.firstcloud.me/logo/5176.png" group-title="Divers",CARTOON NETWORK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768033.ts
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="GULLI" tvg-logo="http://logott.firstcloud.me/logo/18486.png" group-title="Divers",GULLI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22059.ts
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="GULLI" tvg-logo="http://logott.firstcloud.me/logo/1307.png" group-title="Divers",GULLI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8753.ts
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="GULLI" tvg-logo="http://logott.firstcloud.me/logo/5180.png" group-title="Divers",GULLI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768034.ts
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="DREAMWORKS" tvg-logo="http://logott.firstcloud.me/logo/53402.png" group-title="Divers",DREAMWORKS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1053319.ts
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="DREAMWORKS" tvg-logo="http://logott.firstcloud.me/logo/53401.png" group-title="Divers",DREAMWORKS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1053318.ts
+#EXTINF:-1 tvg-id="dreamworks" tvg-name="DREAMWORKS" tvg-logo="http://logott.firstcloud.me/logo/53400.png" group-title="Divers",DREAMWORKS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1053317.ts
+#EXTINF:-1 tvg-id="pitchountv" tvg-name="PITCHOUN TV" tvg-logo="http://logott.firstcloud.me/logo/47757.png" group-title="Divers",PITCHOUN TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/856872.ts
+#EXTINF:-1 tvg-id="pitchountv" tvg-name="PITCHOUN TV" tvg-logo="http://logott.firstcloud.me/logo/47756.png" group-title="Divers",PITCHOUN TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/856871.ts
+#EXTINF:-1 tvg-id="pitchountv" tvg-name="PITCHOUN TV" tvg-logo="http://logott.firstcloud.me/logo/55051.png" group-title="Divers",PITCHOUN TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104147.ts
+#EXTINF:-1 tvg-id="pitchounkidsmusic" tvg-name="PITCHOUN KIDS MUSIC" tvg-logo="http://logott.firstcloud.me/logo/57876.png" group-title="Divers",PITCHOUN KIDS MUSIC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1250045.ts
+#EXTINF:-1 tvg-id="pitchounkidsmusic" tvg-name="PITCHOUN KIDS MUSIC" tvg-logo="http://logott.firstcloud.me/logo/57875.png" group-title="Divers",PITCHOUN KIDS MUSIC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1250044.ts
+#EXTINF:-1 tvg-id="pitchounkidsmusic" tvg-name="PITCHOUN KIDS MUSIC" tvg-logo="http://logott.firstcloud.me/logo/57874.png" group-title="Divers",PITCHOUN KIDS MUSIC
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1250043.ts
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="BABY TV" tvg-logo="http://logott.firstcloud.me/logo/22390.png" group-title="Divers",BABY TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738171.ts
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="BABY TV" tvg-logo="http://logott.firstcloud.me/logo/17384.png" group-title="Divers",BABY TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738170.ts
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="BABY TV" tvg-logo="http://logott.firstcloud.me/logo/17384.png" group-title="Divers",BABY TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105432.ts
+#EXTINF:-1 tvg-id="ducktv" tvg-name="DUCK TV" tvg-logo="http://logott.firstcloud.me/logo/51458.png" group-title="Divers",DUCK TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/985183.ts
+#EXTINF:-1 tvg-id="ducktv" tvg-name="DUCK TV" tvg-logo="http://logott.firstcloud.me/logo/51459.png" group-title="Divers",DUCK TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/985184.ts
+#EXTINF:-1 tvg-id="ducktv" tvg-name="DUCK TV" tvg-logo="http://logott.firstcloud.me/logo/51460.png" group-title="Divers",DUCK TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/985185.ts
+#EXTINF:-1 tvg-id="franimationvodfr" tvg-name="•●★---|FR| ANIMATION VOD |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| ANIMATION VOD |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103943.ts
+#EXTINF:-1 tvg-id="disneypixarvod" tvg-name="DISNEY+ PIXAR [VOD]" tvg-logo="http://logott.firstcloud.me/logo/54685.png" group-title="Divers",DISNEY+ PIXAR [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/756182.ts
+#EXTINF:-1 tvg-id="lessimpsonvod" tvg-name="LES SIMPSON [VOD]" tvg-logo="http://logip.firstcloud.me/logo/lessimpson.png" group-title="Divers",LES SIMPSON [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/556190.ts
+#EXTINF:-1 tvg-id="boblepongevod" tvg-name="BOB L'EPONGE [VOD]" tvg-logo="http://logott.firstcloud.me/logo/bobleponge.png" group-title="Divers",BOB L'EPONGE [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/556117.ts
+#EXTINF:-1 tvg-id="spiritaugalopentoutelibertevod" tvg-name="SPIRIT : AU GALOP EN TOUTE LIBERTE [VOD]" tvg-logo="http://logip.firstcloud.me/logo/spirit.png" group-title="Divers",SPIRIT : AU GALOP EN TOUTE LIBERTE [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554891.ts
+#EXTINF:-1 tvg-id="miraculousvod" tvg-name="MIRACULOUS [VOD]" tvg-logo="http://logip.firstcloud.me/logo/miraculous.png" group-title="Divers",MIRACULOUS [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554893.ts
+#EXTINF:-1 tvg-id="mashaetmichkavod" tvg-name="MASHA ET MICHKA [VOD]" tvg-logo="http://logip.firstcloud.me/logo/mashaandmichka.png" group-title="Divers",MASHA ET MICHKA [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554894.ts
+#EXTINF:-1 tvg-id="peppapig" tvg-name="PEPPA PIG" tvg-logo="http://logip.firstcloud.me/logo/peppapig.png" group-title="Divers",PEPPA PIG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/717404.ts
+#EXTINF:-1 tvg-id="peppapig" tvg-name="PEPPA PIG" tvg-logo="http://logip.firstcloud.me/logo/peppapig.png" group-title="Divers",PEPPA PIG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554892.ts
+#EXTINF:-1 tvg-id="lilostitchvod" tvg-name="LILO & STITCH [VOD]" tvg-logo="http://logip.firstcloud.me/logo/liloandstitch.png" group-title="Divers",LILO & STITCH [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554895.ts
+#EXTINF:-1 tvg-id="lamaisondemickeyvod" tvg-name="LA MAISON DE MICKEY [VOD]" tvg-logo="http://logip.firstcloud.me/logo/lamaisondemickey.png" group-title="Divers",LA MAISON DE MICKEY [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554896.ts
+#EXTINF:-1 tvg-id="lagardeduroilionvod" tvg-name="LA GARDE DU ROI LION [VOD]" tvg-logo="http://logip.firstcloud.me/logo/lagardeduroilion.png" group-title="Divers",LA GARDE DU ROI LION [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554897.ts
+#EXTINF:-1 tvg-id="elenadavalorvod" tvg-name="ELENA D'AVALOR [VOD]" tvg-logo="http://logip.firstcloud.me/logo/elenaofavalor.png" group-title="Divers",ELENA D'AVALOR [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554898.ts
+#EXTINF:-1 tvg-id="doralexploratricevod" tvg-name="DORA L'EXPLORATRICE [VOD]" tvg-logo="http://logip.firstcloud.me/logo/dora.png" group-title="Divers",DORA L'EXPLORATRICE [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554899.ts
+#EXTINF:-1 tvg-id="docteurlapeluchevod" tvg-name="DOCTEUR LA PELUCHE [VOD]" tvg-logo="http://logip.firstcloud.me/logo/docteurlapeluche.png" group-title="Divers",DOCTEUR LA PELUCHE [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/554900.ts
+#EXTINF:-1 tvg-id="southparkvod" tvg-name="SOUTH PARK [VOD]" tvg-logo="http://logott.firstcloud.me/logo/55033.png" group-title="Divers",SOUTH PARK [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104820.ts
+#EXTINF:-1 tvg-id="lapatpatrouillevod" tvg-name="LA PAT PATROUILLE [VOD]" tvg-logo="http://logip.firstcloud.me/logo/lapatpatrouille.png" group-title="Divers",LA PAT PATROUILLE [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/556477.ts
+#EXTINF:-1 tvg-id="atabletchoupivod" tvg-name="A TABLE T'CHOUPI [VOD]" tvg-logo="http://logott.firstcloud.me/logo/52014.png" group-title="Divers",A TABLE T'CHOUPI [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/997612.ts
+#EXTINF:-1 tvg-id="tchoupietdoudouvod" tvg-name="T'CHOUPI ET DOUDOU [VOD]" tvg-logo="http://logott.firstcloud.me/logo/52015.png" group-title="Divers",T'CHOUPI ET DOUDOU [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/997613.ts
+#EXTINF:-1 tvg-id="tchoupietsesamisvod" tvg-name="T'CHOUPI ET SES AMIS [VOD]" tvg-logo="http://logott.firstcloud.me/logo/52016.png" group-title="Divers",T'CHOUPI ET SES AMIS [VOD]
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/997614.ts
+#EXTINF:-1 tvg-id="frnouvellegenerfr" tvg-name="•●★---|FR| NOUVELLE GENER. |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| NOUVELLE GENER. |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103941.ts
+#EXTINF:-1 tvg-id="frnouvellegenerfr" tvg-name="•●★---|FR| NOUVELLE GENER. |FR|---★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★---|FR| NOUVELLE GENER. |FR|---★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103940.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV" tvg-logo="http://logott.firstcloud.me/logo/9363.png" group-title="Divers",MTV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12936.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV" tvg-logo="http://logott.firstcloud.me/logo/1197.png" group-title="Divers",MTV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11825.ts
+#EXTINF:-1 tvg-id="MTVLive.us" tvg-name="MTV" tvg-logo="http://logott.firstcloud.me/logo/8252.png" group-title="Divers",MTV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/726455.ts
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="http://logott.firstcloud.me/logo/18491.png" group-title="Divers",MCM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22064.ts
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="http://logott.firstcloud.me/logo/9313.png" group-title="Divers",MCM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12886.ts
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="http://logott.firstcloud.me/logo/46392.png" group-title="Divers",MCM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768062.ts
+#EXTINF:-1 tvg-id="eentertainment" tvg-name="E! ENTERTAINMENT" tvg-logo="http://logott.firstcloud.me/logo/10347.png" group-title="Divers",E! ENTERTAINMENT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13920.ts
+#EXTINF:-1 tvg-id="eentertainment" tvg-name="E! ENTERTAINMENT" tvg-logo="http://logott.firstcloud.me/logo/1200.png" group-title="Divers",E! ENTERTAINMENT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/8726.ts
+#EXTINF:-1 tvg-id="eentertainment" tvg-name="E! ENTERTAINMENT" tvg-logo="http://logott.firstcloud.me/logo/5153.png" group-title="Divers",E! ENTERTAINMENT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/711119.ts
+#EXTINF:-1 tvg-id="ComedyCentral.be" tvg-name="COMEDY CENTRAL" tvg-logo="http://logott.firstcloud.me/logo/39864.png" group-title="Divers",COMEDY CENTRAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/714418.ts
+#EXTINF:-1 tvg-id="ComedyCentral.be" tvg-name="COMEDY CENTRAL" tvg-logo="http://logott.firstcloud.me/logo/39864.png" group-title="Divers",COMEDY CENTRAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983662.ts
+#EXTINF:-1 tvg-id="ComedyCentral.be" tvg-name="COMEDY CENTRAL" tvg-logo="http://logott.firstcloud.me/logo/39864.png" group-title="Divers",COMEDY CENTRAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983663.ts
+#EXTINF:-1 tvg-id="warnertvnext" tvg-name="WARNER TV NEXT" tvg-logo="http://logott.firstcloud.me/logo/54742.png" group-title="Divers",WARNER TV NEXT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1098388.ts
+#EXTINF:-1 tvg-id="warnertvnext" tvg-name="WARNER TV NEXT" tvg-logo="http://logott.firstcloud.me/logo/54741.png" group-title="Divers",WARNER TV NEXT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1098387.ts
+#EXTINF:-1 tvg-id="warnertvnext" tvg-name="WARNER TV NEXT" tvg-logo="http://logott.firstcloud.me/logo/54740.png" group-title="Divers",WARNER TV NEXT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1098386.ts
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J-ONE" tvg-logo="http://logott.firstcloud.me/logo/22311.png" group-title="Divers",J-ONE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25884.ts
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J-ONE" tvg-logo="http://logott.firstcloud.me/logo/7976.png" group-title="Divers",J-ONE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11549.ts
+#EXTINF:-1 tvg-id="JOne.fr" tvg-name="J-ONE" tvg-logo="http://logott.firstcloud.me/logo/7977.png" group-title="Divers",J-ONE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/11550.ts
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="MANGAS" tvg-logo="http://logott.firstcloud.me/logo/18447.png" group-title="Divers",MANGAS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22020.ts
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="MANGAS" tvg-logo="http://logott.firstcloud.me/logo/1204.png" group-title="Divers",MANGAS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4777.ts
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="MANGAS" tvg-logo="http://logott.firstcloud.me/logo/1204.png" group-title="Divers",MANGAS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105529.ts
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GAME ONE" tvg-logo="http://logott.firstcloud.me/logo/9415.png" group-title="Divers",GAME ONE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12988.ts
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GAME ONE" tvg-logo="http://logott.firstcloud.me/logo/1202.png" group-title="Divers",GAME ONE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4775.ts
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GAME ONE" tvg-logo="http://logott.firstcloud.me/logo/46395.png" group-title="Divers",GAME ONE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/768074.ts
+#EXTINF:-1 tvg-id="gameone1" tvg-name="GAME ONE +1" tvg-logo="http://logott.firstcloud.me/logo/55023.png" group-title="Divers",GAME ONE +1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104119.ts
+#EXTINF:-1 tvg-id="gameone1" tvg-name="GAME ONE +1" tvg-logo="http://logott.firstcloud.me/logo/46909.png" group-title="Divers",GAME ONE +1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/818210.ts
+#EXTINF:-1 tvg-id="gameone1" tvg-name="GAME ONE +1" tvg-logo="http://logott.firstcloud.me/logo/55022.png" group-title="Divers",GAME ONE +1
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104118.ts
+#EXTINF:-1 tvg-id="adn" tvg-name="ADN" tvg-logo="http://logott.firstcloud.me/logo/55321.png" group-title="Divers",ADN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105582.ts
+#EXTINF:-1 tvg-id="adn" tvg-name="ADN" tvg-logo="http://logott.firstcloud.me/logo/55319.png" group-title="Divers",ADN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105580.ts
+#EXTINF:-1 tvg-id="adn" tvg-name="ADN" tvg-logo="http://logott.firstcloud.me/logo/55318.png" group-title="Divers",ADN
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105579.ts
+#EXTINF:-1 tvg-id="mggtv" tvg-name="MGG TV" tvg-logo="http://logott.firstcloud.me/logo/40593.png" group-title="Divers",MGG TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/733441.ts
+#EXTINF:-1 tvg-id="mggtv" tvg-name="MGG TV" tvg-logo="http://logott.firstcloud.me/logo/46388.png" group-title="Divers",MGG TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/767833.ts
+#EXTINF:-1 tvg-id="mggtv" tvg-name="MGG TV" tvg-logo="http://logott.firstcloud.me/logo/51430.png" group-title="Divers",MGG TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983669.ts
+#EXTINF:-1 tvg-id="ginxesport" tvg-name="GINX ESPORT" tvg-logo="http://logott.firstcloud.me/logo/22342.png" group-title="Divers",GINX ESPORT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738156.ts
+#EXTINF:-1 tvg-id="ginxesport" tvg-name="GINX ESPORT" tvg-logo="http://logott.firstcloud.me/logo/17387.png" group-title="Divers",GINX ESPORT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738155.ts
+#EXTINF:-1 tvg-id="ginxesport" tvg-name="GINX ESPORT" tvg-logo="http://logott.firstcloud.me/logo/22342.png" group-title="Divers",GINX ESPORT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105530.ts
+#EXTINF:-1 tvg-id="gametoon" tvg-name="GAME TOON" tvg-logo="http://logott.firstcloud.me/logo/51463.png" group-title="Divers",GAME TOON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/985364.ts
+#EXTINF:-1 tvg-id="gametoon" tvg-name="GAME TOON" tvg-logo="http://logott.firstcloud.me/logo/51464.png" group-title="Divers",GAME TOON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/985365.ts
+#EXTINF:-1 tvg-id="gametoon" tvg-name="GAME TOON" tvg-logo="http://logott.firstcloud.me/logo/51465.png" group-title="Divers",GAME TOON
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/985366.ts
+#EXTINF:-1 tvg-id="luckyjack" tvg-name="LUCKY JACK" tvg-logo="http://logott.firstcloud.me/logo/22312.png" group-title="Divers",LUCKY JACK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25885.ts
+#EXTINF:-1 tvg-id="luckyjack" tvg-name="LUCKY JACK" tvg-logo="http://logott.firstcloud.me/logo/22312.png" group-title="Divers",LUCKY JACK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/20956.ts
+#EXTINF:-1 tvg-id="luckyjack" tvg-name="LUCKY JACK" tvg-logo="http://logott.firstcloud.me/logo/22312.png" group-title="Divers",LUCKY JACK
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1105531.ts
+#EXTINF:-1 tvg-id="gong" tvg-name="GONG" tvg-logo="http://logott.firstcloud.me/logo/54861.png" group-title="Divers",GONG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103957.ts
+#EXTINF:-1 tvg-id="gong" tvg-name="GONG" tvg-logo="http://logott.firstcloud.me/logo/48664.png" group-title="Divers",GONG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/901956.ts
+#EXTINF:-1 tvg-id="gong" tvg-name="GONG" tvg-logo="http://logott.firstcloud.me/logo/54860.png" group-title="Divers",GONG
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103956.ts
+#EXTINF:-1 tvg-id="gongmax" tvg-name="GONG MAX" tvg-logo="http://logott.firstcloud.me/logo/54858.png" group-title="Divers",GONG MAX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103954.ts
+#EXTINF:-1 tvg-id="gongmax" tvg-name="GONG MAX" tvg-logo="http://logott.firstcloud.me/logo/48665.png" group-title="Divers",GONG MAX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/901957.ts
+#EXTINF:-1 tvg-id="gongmax" tvg-name="GONG MAX" tvg-logo="http://logott.firstcloud.me/logo/54857.png" group-title="Divers",GONG MAX
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1103953.ts
+#EXTINF:-1 tvg-id="sqooltv" tvg-name="SQOOL TV" tvg-logo="http://logott.firstcloud.me/logo/55680.png" group-title="Divers",SQOOL TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1153887.ts
+#EXTINF:-1 tvg-id="sqooltv" tvg-name="SQOOL TV" tvg-logo="http://logott.firstcloud.me/logo/55679.png" group-title="Divers",SQOOL TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1153886.ts
+#EXTINF:-1 tvg-id="sqooltv" tvg-name="SQOOL TV" tvg-logo="http://logott.firstcloud.me/logo/55678.png" group-title="Divers",SQOOL TV
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1153885.ts
+#EXTINF:-1 tvg-id="frinfosfr" tvg-name="•●★-----|FR| INFOS |FR|----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★-----|FR| INFOS |FR|----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/5784.ts
+#EXTINF:-1 tvg-id="frinfosfr" tvg-name="•●★----|FR| INFOS |FR|----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★----|FR| INFOS |FR|----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138425.ts
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO" tvg-logo="http://logott.firstcloud.me/logo/22326.png" group-title="Divers",LA CHAINE METEO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25899.ts
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO" tvg-logo="http://logott.firstcloud.me/logo/10959.png" group-title="Divers",LA CHAINE METEO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14532.ts
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS" tvg-logo="http://logott.firstcloud.me/logo/9348.png" group-title="Divers",CNEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12921.ts
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS" tvg-logo="http://logott.firstcloud.me/logo/9545.png" group-title="Divers",CNEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13118.ts
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM" tvg-logo="http://logott.firstcloud.me/logo/10417.png" group-title="France",BFM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13990.ts
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM" tvg-logo="http://logott.firstcloud.me/logo/10344.png" group-title="France",BFM
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13917.ts
+#EXTINF:-1 tvg-id="bfm2.fr" tvg-name="BFM 2" tvg-logo="http://logott.firstcloud.me/logo/55997.png" group-title="France",BFM 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1166532.ts
+#EXTINF:-1 tvg-id="bfm2.fr" tvg-name="BFM 2" tvg-logo="http://logott.firstcloud.me/logo/55996.png" group-title="France",BFM 2
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1166531.ts
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://logott.firstcloud.me/logo/9350.png" group-title="France",LCI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/12923.ts
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://logott.firstcloud.me/logo/1247.png" group-title="France",LCI
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4820.ts
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://logott.firstcloud.me/logo/9920.png" group-title="France",FRANCE INFO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13493.ts
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO" tvg-logo="http://logott.firstcloud.me/logo/10538.png" group-title="France",FRANCE INFO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14111.ts
+#EXTINF:-1 tvg-id="lcpan2424" tvg-name="LCP-AN 24/24" tvg-logo="http://logott.firstcloud.me/logo/55011.png" group-title="Divers",LCP-AN 24/24
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104107.ts
+#EXTINF:-1 tvg-id="lcpan2424" tvg-name="LCP-AN 24/24" tvg-logo="http://logott.firstcloud.me/logo/46911.png" group-title="Divers",LCP-AN 24/24
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/818212.ts
+#EXTINF:-1 tvg-id="publicsnat" tvg-name="PUBLIC SÉNAT" tvg-logo="http://logott.firstcloud.me/logo/22329.png" group-title="Divers",PUBLIC SÉNAT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25902.ts
+#EXTINF:-1 tvg-id="publicsnat" tvg-name="PUBLIC SÉNAT" tvg-logo="http://logott.firstcloud.me/logo/24300.png" group-title="Divers",PUBLIC SÉNAT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/27873.ts
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FRANCE 24" tvg-logo="http://logott.firstcloud.me/logo/22328.png" group-title="France",FRANCE 24
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25901.ts
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FRANCE 24" tvg-logo="http://logott.firstcloud.me/logo/1249.png" group-title="France",FRANCE 24
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4822.ts
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-logo="http://logott.firstcloud.me/logo/22327.png" group-title="Divers",EURONEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25900.ts
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="EURONEWS" tvg-logo="http://logott.firstcloud.me/logo/1248.png" group-title="Divers",EURONEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4821.ts
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://logott.firstcloud.me/logo/25606.png" group-title="France",BFM BUSINESS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/29179.ts
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS" tvg-logo="http://logott.firstcloud.me/logo/18484.png" group-title="France",BFM BUSINESS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/22057.ts
+#EXTINF:-1 tvg-id="techco" tvg-name="TECH&CO" tvg-logo="http://logott.firstcloud.me/logo/45139.png" group-title="Divers",TECH&CO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/750725.ts
+#EXTINF:-1 tvg-id="techco" tvg-name="TECH&CO" tvg-logo="http://logott.firstcloud.me/logo/45140.png" group-title="Divers",TECH&CO
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/750726.ts
+#EXTINF:-1 tvg-id="bsmart" tvg-name="B-SMART" tvg-logo="http://logott.firstcloud.me/logo/55015.png" group-title="Divers",B-SMART
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1104111.ts
+#EXTINF:-1 tvg-id="bsmart" tvg-name="B-SMART" tvg-logo="http://logott.firstcloud.me/logo/48660.png" group-title="Divers",B-SMART
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/901508.ts
+#EXTINF:-1 tvg-id="lemedia" tvg-name="LE MEDIA" tvg-logo="http://logott.firstcloud.me/logo/55338.png" group-title="Divers",LE MEDIA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1108095.ts
+#EXTINF:-1 tvg-id="lemedia" tvg-name="LE MEDIA" tvg-logo="http://logott.firstcloud.me/logo/55337.png" group-title="Divers",LE MEDIA
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1108094.ts
+#EXTINF:-1 tvg-id="i24News.fr" tvg-name="I24 NEWS" tvg-logo="http://logott.firstcloud.me/logo/22334.png" group-title="Divers",I24 NEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/25907.ts
+#EXTINF:-1 tvg-id="i24News.fr" tvg-name="I24 NEWS" tvg-logo="http://logott.firstcloud.me/logo/10958.png" group-title="Divers",I24 NEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/14531.ts
+#EXTINF:-1 tvg-id="rtfrance.fr" tvg-name="RT FRANCE" tvg-logo="http://logott.firstcloud.me/logo/51446.png" group-title="France",RT FRANCE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983970.ts
+#EXTINF:-1 tvg-id="rtfrance.fr" tvg-name="RT FRANCE" tvg-logo="http://logott.firstcloud.me/logo/38994.png" group-title="France",RT FRANCE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/557132.ts
+#EXTINF:-1 tvg-id="bloombergeurope" tvg-name="BLOOMBERG EUROPE" tvg-logo="http://logott.firstcloud.me/logo/51419.png" group-title="Divers",BLOOMBERG EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/983630.ts
+#EXTINF:-1 tvg-id="bloombergeurope" tvg-name="BLOOMBERG EUROPE" tvg-logo="http://logott.firstcloud.me/logo/22330.png" group-title="Divers",BLOOMBERG EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738164.ts
+#EXTINF:-1 tvg-id="cnbceurope.us" tvg-name="CNBC EUROPE" tvg-logo="http://logott.firstcloud.me/logo/22333.png" group-title="USA",CNBC EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738162.ts
+#EXTINF:-1 tvg-id="cnbceurope.us" tvg-name="CNBC EUROPE" tvg-logo="http://logott.firstcloud.me/logo/17391.png" group-title="USA",CNBC EUROPE
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738161.ts
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC NEWS" tvg-logo="http://logott.firstcloud.me/logo/22332.png" group-title="Divers",BBC NEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738168.ts
+#EXTINF:-1 tvg-id="bbcnews" tvg-name="BBC NEWS" tvg-logo="http://logott.firstcloud.me/logo/17390.png" group-title="Divers",BBC NEWS
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738167.ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN INTERNATIONAL" tvg-logo="http://logott.firstcloud.me/logo/41063.png" group-title="USA",CNN INTERNATIONAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738159.ts
+#EXTINF:-1 tvg-id="CNNInternational.us" tvg-name="CNN INTERNATIONAL" tvg-logo="http://logott.firstcloud.me/logo/41062.png" group-title="USA",CNN INTERNATIONAL
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/738158.ts
+#EXTINF:-1 tvg-id="frsportfr" tvg-name="•●★------|FR| SPORT |FR|-----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★------|FR| SPORT |FR|-----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/6129.ts
+#EXTINF:-1 tvg-id="frsportfr" tvg-name="•●★-----|FR| SPORT |FR|----★●•" tvg-logo="http://logip.firstcloud.me/flags/fr.png" group-title="Divers",•●★-----|FR| SPORT |FR|----★●•
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/138421.ts
+#EXTINF:-1 tvg-id="canalfoot.fr" tvg-name="CANAL+ FOOT" tvg-logo="http://logott.firstcloud.me/logo/53155.png" group-title="France",CANAL+ FOOT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1026266.ts
+#EXTINF:-1 tvg-id="canalfoot.fr" tvg-name="CANAL+ FOOT" tvg-logo="http://logott.firstcloud.me/logo/53154.png" group-title="France",CANAL+ FOOT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1026265.ts
+#EXTINF:-1 tvg-id="canalfoot.fr" tvg-name="CANAL+ FOOT" tvg-logo="http://logott.firstcloud.me/logo/53153.png" group-title="France",CANAL+ FOOT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/1026264.ts
+#EXTINF:-1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://logott.firstcloud.me/logo/1175.png" group-title="France",CANAL+ SPORT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/4748.ts
+#EXTINF:-1 tvg-id="canalsport.fr" tvg-name="CANAL+ SPORT" tvg-logo="http://logott.firstcloud.me/logo/5143.png" group-title="France",CANAL+ SPORT
+http://iplay-tv.com:9999/live/fPtTweCwqC/Zcgsky78hk/13061.ts
