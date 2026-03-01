@@ -1,0 +1,51 @@
+version: '3.8'
+services:
+  xtream-mini:
+    build: .
+    container_name: xtream-mini
+    environment:
+      - XTREAM_HOST=${XTREAM_HOST}
+      - XTREAM_USER=${XTREAM_USER}
+      - XTREAM_PASS=${XTREAM_PASS}
+      - FILTER_KEYWORDS=${FILTER_KEYWORDS}
+      - REFRESH_SECS=1800
+      - PORT=35000
+    volumes:
+      - /volume1/docker/xteve/playlist:/data/playlist
+      - /volume1/docker/xteve/xmltv:/data/xmltv
+      - /volume1/docker/xteve/app:/app:ro
+    ports:
+      - "35000:35000"
+    networks:
+      - iptv_network
+    mem_limit: 256m
+    restart: always
+    mem_reservation: 8g
+  # Threadfin avec FFmpeg intégré (pas besoin de conteneur externe)
+  threadfin:
+    image: fyb3roptik/threadfin:latest
+    container_name: threadfin
+    # Limites/affinités compatibles DSM
+    cpuset: "0-1" # n’utilise que les CPU 0 et 1
+    cpu_shares: 256 # < 1024 = priorité réduite
+    mem_limit: 768m # 1 Go max
+    mem_reservation: 256m
+    environment:
+      - TZ=Europe/Brussels
+      - THREADFIN_PORT=34400
+    ports:
+      - "34400:34400"
+    volumes:
+      - /volume1/docker/xteve/threadfin_config:/home/threadfin/conf
+      - /volume1/docker/xteve/threadfin_data:/tmp/threadfin
+    networks:
+      - iptv_network
+    depends_on:
+      - xtream-mini
+    restart: always
+networks:
+  iptv_network:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.28.0.0/16

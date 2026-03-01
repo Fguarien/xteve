@@ -7,6 +7,14 @@ docker-data/
 data/
 logs/
 *.log
+cache/
+
 # --- Synology & Docker ---
 .DS_Store
 # -------------------------
+threadfin_config/cache/log/
+_logs/
+_archives/
+*.tmp
+threadfin_config/
+xmltv/

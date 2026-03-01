@@ -1,37 +1,56 @@
-version: "3.9"
-
 services:
   xtream-mini:
     build: .
     container_name: xtream-mini
-    env_file: .env
     environment:
-      - TZ
-      - PORT
-      - XTREAM_HOST
-      - XTREAM_USER
-      - XTREAM_PASS
-      - FILTER_KEYWORDS
-      - REFRESH_SECS
-      - HTTP_PROXY
+      - XTREAM_HOST=${XTREAM_HOST}
+      - XTREAM_USER=${XTREAM_USER}
+      - XTREAM_PASS=${XTREAM_PASS}
+      - FILTER_KEYWORDS=${FILTER_KEYWORDS}
+      - REFRESH_SECS=1800
+      - PORT=35000
     volumes:
-      - /volume1/docker/xteve/playlist:/data/playlist
-      - /volume1/docker/xteve/xmltv:/data/xmltv
-      - /volume1/docker/xteve/app:/app:ro
+      - /Volumes/docker/xteve/playlist:/data/playlist
+      - /Volumes/docker/xteve/xmltv:/data/xmltv
+      - /Volumes/docker/xteve/app:/app:ro
     ports:
       - "35000:35000"
-    restart: unless-stopped
-
+    network_mode: host
+    mem_limit: 768m
+    restart: always
+    mem_reservation: 256m
+    # Threadfin avec FFmpeg intégré (pas besoin de conteneur externe)
+    labels:
+      com.centurylinklabs.watchtower.enable: "true"
+    logging:
+      driver: json-file
+      options:
+        max-size: 50m
+        max-file: "3"
   threadfin:
     image: fyb3roptik/threadfin:latest
     container_name: threadfin
+    # Limites/affinités compatibles DSM
+    cpuset: "0-1" # n’utilise que les CPU 0 et 1
+    cpu_shares: 256 # < 1024 = priorité réduite
+    mem_limit: 768m # 1 Go max
+    mem_reservation: 256m
     environment:
       - TZ=Europe/Brussels
       - THREADFIN_PORT=34400
-      - THREADFIN_WEB_UI_PORT=34400
-    volumes:
-      - /volume1/docker/xteve/threadfin_config:/home/threadfin/conf
-      - /volume1/docker/xteve/threadfin_data:/tmp/threadfin
+    network_mode: host
     ports:
       - "34400:34400"
-    restart: unless-stopped
+    volumes:
+      - /Volumes/docker/xteve/threadfin_config:/home/threadfin/conf
+      - /Volumes/docker/xteve/threadfin_data:/tmp/threadfin
+    depends_on:
+      - xtream-mini
+    restart: always
+    labels:
+      com.centurylinklabs.watchtower.enable: "true"
+    logging:
+      driver: json-file
+      options:
+        max-size: 50m
+        max-file: "3"
