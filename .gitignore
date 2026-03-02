@@ -18,3 +18,17 @@ _archives/
 *.tmp
 threadfin_config/
 xmltv/
+*.bak
+.env.*
+*.env
+.envrc
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+*.secret
+secrets/
+certs/
+docker-compose.override.yml
