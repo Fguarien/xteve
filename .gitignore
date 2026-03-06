@@ -56,3 +56,7 @@ postgres/postmaster.pid
 
 # ── Prometheus TSDB (ajout auto v4.4) ───────────────────
 prometheus/data/
+.nfs*
+threadfin_config/data/X19AGYDBNCLIUBAQUEK1.xml
+xmltv/guide.xml
+xmltv/.nfs.200d7487.6c63
