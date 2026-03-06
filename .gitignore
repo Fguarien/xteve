@@ -35,3 +35,24 @@ docker-compose.override.yml
 threadfin_config/data/X19AGYDBNCLIUBAQUEK1.xml
 xmltv/guide.xml
 xmltv/.nfs.200d7487.6c63
+
+# ── Artefacts macOS (ajout auto v4.4) ────────────────────
+.fseventsd/
+.Spotlight-V100/
+.Trashes/
+.DS_Store
+.AppleDouble
+._*
+.DocumentRevisions-V100/
+.TemporaryItems/
+
+# ── PostgreSQL données internes (ajout auto v4.4) ────────
+postgres/base/
+postgres/global/
+postgres/pg_wal/
+postgres/pg_xact/
+postgres/pg_stat_tmp/
+postgres/postmaster.pid
+
+# ── Prometheus TSDB (ajout auto v4.4) ───────────────────
+prometheus/data/
